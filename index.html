@@ -454,6 +454,28 @@
             }
         }, stepDuration);
     }
+
+    function updateSubscriberCount(newCount) {
+    const subscriberCount = document.getElementById('subscriberCount');
+    animateSubscriberCount(newCount);
+}
+
+function animateSubscriberCount(targetCount) {
+    const subscriberCount = document.getElementById('subscriberCount');
+
+    const updateCount = () => {
+        const currentCount = parseInt(subscriberCount.textContent.replace(/,/g, ''));
+        if (currentCount < targetCount) {
+            subscriberCount.textContent = formatNumber(currentCount + 1);
+            setTimeout(updateCount, 10);
+        } else if (currentCount > targetCount) {
+            subscriberCount.textContent = formatNumber(currentCount - 1);
+            setTimeout(updateCount, 10);
+        }
+    };
+
+    updateCount();
+}
  </script>
 </body>
 </html>
