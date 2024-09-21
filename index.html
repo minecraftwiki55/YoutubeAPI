@@ -393,10 +393,21 @@
 
         const audio = document.getElementById('myAudio');
 
-    audio.addEventListener('ended', function() {
-        audio.currentTime = 0;
-        audio.play();
+function forcePlayAudio() {
+    audio.play().catch(() => {
+        document.body.addEventListener('click', () => {
+            audio.play();
+        });
     });
+}
+
+setInterval(() => {
+    if (audio.paused) {
+        forcePlayAudio();
+    }
+}, 1000);
+
+forcePlayAudio();
     </script>
 </body>
 </html>
