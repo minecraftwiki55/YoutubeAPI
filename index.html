@@ -288,10 +288,6 @@
     </div>
 
     <script>
-
-
-
-        let currentSubscriberCount = 0; // متغير لتخزين العدد الحالي
         // YouTube API Key (Replace with your actual API key)
         const API_KEY = 'AIzaSyB_Wdn0AiD0yi8cXzL_8ugpWx3CtMyHtt8';
 
@@ -322,15 +318,15 @@
             }
         }
 
-function updateChannelInfo(channel) {
-    const newSubscriberCount = parseInt(channel.statistics.subscriberCount);
-    
-    // تحديث العداد فقط إذا كان هناك تغيير
-    if (newSubscriberCount !== currentSubscriberCount) {
-        animateSubscriberCount(newSubscriberCount);
-        currentSubscriberCount = newSubscriberCount; // تحديث العدد الحالي
-    }
-}
+        function updateChannelInfo(channel) {
+            const channelImage = document.getElementById('channelImage');
+            const channelName = document.getElementById('channelName');
+            const subscriberCount = document.getElementById('subscriberCount');
+
+            channelImage.src = channel.snippet.thumbnails.medium.url;
+            channelName.textContent = channel.snippet.title;
+            animateSubscriberCount(channel.statistics.subscriberCount);
+        }
 
         async function fetchMostViewedVideo(channelId) {
             try {
@@ -370,24 +366,28 @@ function updateChannelInfo(channel) {
             return new Intl.NumberFormat('ar-EG', { notation: 'compact', compactDisplay: 'short' }).format(num);
         }
 
-function animateSubscriberCount(targetCount) {
-    const subscriberCount = document.getElementById('subscriberCount');
-    const duration = 1000; // مدة الرسوم المتحركة بالميلي ثانية
-    const steps = Math.abs(targetCount - currentSubscriberCount); // عدد الخطوات
-    const stepDuration = duration / steps;
-    let step = 0;
+        function animateSubscriberCount(targetCount) {
+            const subscriberCount = document.getElementById('subscriberCount');
+            const duration = 2000; // Animation duration in milliseconds
+            const steps = 60; // Number of steps in the animation
+            const stepDuration = duration / steps;
+            let currentCount = 0;
+            let step = 0;
 
-    const animation = setInterval(() => {
-        step++;
-        const newCount = currentSubscriberCount + (targetCount > currentSubscriberCount ? step : -step);
-        subscriberCount.textContent = formatNumber(newCount);
+            subscriberCount.classList.add('pulse');
 
-        if (step >= steps) {
-            clearInterval(animation);
-            subscriberCount.textContent = formatNumber(targetCount);
+            const animation = setInterval(() => {
+                step++;
+                currentCount = Math.ceil((targetCount / steps) * step);
+                subscriberCount.textContent = formatNumber(currentCount);
+
+                if (step >= steps) {
+                    clearInterval(animation);
+                    subscriberCount.textContent = formatNumber(targetCount);
+                    subscriberCount.classList.remove('pulse');
+                }
+            }, stepDuration);
         }
-    }, stepDuration);
-}
     </script>
 </body>
 </html>
