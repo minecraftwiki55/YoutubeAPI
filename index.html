@@ -365,105 +365,20 @@
             let currentCount = 0;
             let step = 0;
 
-<script>
-    const API_KEY = 'AIzaSyB_Wdn0AiD0yi8cXzL_8ugpWx3CtMyHtt8';
+            subscriberCount.classList.add('pulse');
 
-    async function fetchChannelInfo() {
-        const channelId = document.getElementById('channelId').value;
-        const errorMessage = document.getElementById('errorMessage');
-        
-        if (!channelId) {
-            errorMessage.textContent = 'الرجاء إدخال معرف قناة صالح';
-            return;
-        }
+            const animation = setInterval(() => {
+                step++;
+                currentCount = Math.ceil((targetCount / steps) * step);
+                subscriberCount.textContent = formatNumber(currentCount);
 
-        try {
-            const channelResponse = await fetch(`https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=${channelId}&key=${API_KEY}`);
-            const channelData = await channelResponse.json();
-
-            if (channelData.items && channelData.items.length > 0) {
-                const channel = channelData.items[0];
-                updateChannelInfo(channel);
-                fetchMostViewedVideo(channelId);
-                errorMessage.textContent = '';
-            } else {
-                errorMessage.textContent = 'لم يتم العثور على القناة. يرجى التحقق من معرف القناة والمحاولة مرة أخرى.';
-            }
-        } catch (error) {
-            console.error('Error fetching channel info:', error);
-            errorMessage.textContent = 'حدث خطأ أثناء جلب معلومات القناة. يرجى المحاولة مرة أخرى لاحقًا.';
-        }
-    }
-
-    function updateChannelInfo(channel) {
-        const channelImage = document.getElementById('channelImage');
-        const channelName = document.getElementById('channelName');
-        const subscriberCount = document.getElementById('subscriberCount');
-
-        channelImage.src = channel.snippet.thumbnails.medium.url;
-        channelName.textContent = channel.snippet.title;
-        animateSubscriberCount(channel.statistics.subscriberCount);
-    }
-
-    async function fetchMostViewedVideo(channelId) {
-        try {
-            const videosResponse = await fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&order=viewCount&type=video&maxResults=1&key=${API_KEY}`);
-            const videosData = await videosResponse.json();
-
-            if (videosData.items && videosData.items.length > 0) {
-                const mostViewedVideo = videosData.items[0];
-                updateMostViewedVideo(mostViewedVideo);
-            }
-        } catch (error) {
-            console.error('Error fetching most viewed video:', error);
-        }
-    }
-
-    function updateMostViewedVideo(video) {
-        const mostViewedThumbnail = document.getElementById('mostViewedThumbnail');
-        const mostViewedTitle = document.getElementById('mostViewedTitle');
-        const mostViewedViews = document.getElementById('mostViewedViews');
-
-        mostViewedThumbnail.src = video.snippet.thumbnails.high.url;
-        mostViewedTitle.textContent = video.snippet.title;
-
-        fetch(`https://www.googleapis.com/youtube/v3/videos?part=statistics&id=${video.id.videoId}&key=${API_KEY}`)
-            .then(response => response.json())
-            .then(data => {
-                if (data.items && data.items.length > 0) {
-                    const viewCount = parseInt(data.items[0].statistics.viewCount);
-                    mostViewedViews.textContent = `${formatNumber(viewCount)} مشاهدة`;
+                if (step >= steps) {
+                    clearInterval(animation);
+                    subscriberCount.textContent = formatNumber(targetCount);
+                    subscriberCount.classList.remove('pulse');
                 }
-            })
-            .catch(error => console.error('Error fetching video statistics:', error));
-    }
-
-    function formatNumber(num) {
-        return new Intl.NumberFormat('ar-EG', { notation: 'compact', compactDisplay: 'short' }).format(num);
-    }
-
-    function animateSubscriberCount(targetCount) {
-        const subscriberCount = document.getElementById('subscriberCount');
-        const duration = 2000;
-        const steps = 60;
-        const stepDuration = duration / steps;
-        let currentCount = 0;
-        let step = 0;
-
-        subscriberCount.classList.add('pulse');
-
-        const animation = setInterval(() => {
-            step++;
-            currentCount = Math.ceil((targetCount / steps) * step);
-            subscriberCount.textContent = formatNumber(currentCount);
-
-            if (step >= steps) {
-                clearInterval(animation);
-                subscriberCount.textContent = formatNumber(targetCount);
-                subscriberCount.classList.remove('pulse');
-            }
-        }, stepDuration);
-    }
-     </script>
+            }, stepDuration);
+        }
+    </script>
 </body>
 </html>
