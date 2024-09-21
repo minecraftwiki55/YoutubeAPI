@@ -257,6 +257,7 @@
     </style>
 </head>
 <body>
+<audio id="myAudio" src="sounds.mp3" loop autoplay></audio>
     <div class="container">
         <header>
             <h1>عداد المشتركين الفاخر</h1>
@@ -388,6 +389,14 @@
                 }
             }, stepDuration);
         }
+
+
+        const audio = document.getElementById('myAudio');
+
+    audio.addEventListener('ended', function() {
+        audio.currentTime = 0;
+        audio.play();
+    });
     </script>
 </body>
 </html>
