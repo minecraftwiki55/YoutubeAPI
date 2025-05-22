@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Teams Add-on!!",
+    "description": "Cool mod",
+    "image":"image/IMG_20250212_230859_723.jpg",
+    "downloadUrl": "download/TEAMS1_21_8x.mcaddon",
+    "supportedVersions": ["1.21.80","1.21.70"],
+    "version": "1.5.0",
+    "author": "FlaxonStudio", 
+    "category": "Add-on"
+  }
+]
