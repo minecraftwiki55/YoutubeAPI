@@ -16,7 +16,7 @@
     "description": "Mod adds new animation to Minecraft game", 
     "image": "image/IMG_20250522_185432_346.jpg", 
     "downloadUrl": "download/Actions And Stuff 1.3[@GaidenMC].mcaddon",
-    "supportVersion":["1.21.80","1.21.70"],
+    "supportedVersions":["1.21.80","1.21.70"],
     "version": "1.3.0",
     "author": "Minecraft",
     "category": "Texture pack"
