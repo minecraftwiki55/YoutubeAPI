@@ -9,5 +9,16 @@
     "version": "1.5.0",
     "author": "FlaxonStudio", 
     "category": "Add-on"
+  },
+  {
+    "id": 2,
+    "name": "Actions And Stuff!!",
+    "description": "Add new animation in minecraft",
+    "image":"image/IMG_20250522_185432_346.jpg",
+    "downloadUrl": "download/Actions And Stuff 1.3[@GaidenMC].mcaddon",
+    "supportedVersions": ["1.21.80","1.21.70"],
+    "version": "1.3.0",
+    "author": "Minecraft", 
+    "category": "Texture pack"
   }
 ]
