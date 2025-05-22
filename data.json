@@ -30,5 +30,15 @@
     "supportedVersions": ["1.21.80","1.21.70"],
     "version": "1.0.2",
     "category": "tools"
+  },
+  {
+    "id": 4,
+    "name": "Extra recipes!!",
+    "description": "Craft items you can't craft.",
+    "image":"image/extra-r.jpg",
+    "downloadUrl": "download/recipes-pack-v1-0.mcaddon",
+    "supportedVersions": ["1.21.80","1.21.70"],
+    "version": "1.0.0", 
+    "category": "tools"
   }
 ]
