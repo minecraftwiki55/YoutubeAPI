@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Teams Add-on!!",
-    "description": "Adds the ability to create a team",
+    "description": "Cool mod",
     "image": "image/IMG_20250212_230859_723.jpg",
     "downloadUrl": "download/TEAMS1_21_8x.mcaddon",
     "supportedVersions": [
@@ -125,37 +125,6 @@
   },
   {
     "id": 10,
-    "name": "Vibrant Visuals",
-    "description": "Experience Vibrant Visuals Shader optimised for low end devices!",
-    "image": "https://media.forgecdn.net/attachments/1182/314/1000040433-jpg.jpg",
-    "downloadUrl": "https://edge.forgecdn.net/files/6550/369/Ashiatrix%27s%20Vibrant%20Visuals.mcpack",
-    "supportedVersions": [
-      "1.21.30",
-      "1.21.50",
-      "1.21.81",
-      "1.21.73",
-      "1.21.41",
-      "1.21.70",
-      "1.21.80"
-    ],
-    "version": "1.0.0",
-    "category": "Texture Pack"
-  },
-  {
-    "id": 11,
-    "name": "True Survival - Zombie Apocalypse",
-    "description": "It is the end of the world and the dead have risen! Can you survive the Zombie Apocalypse?",
-    "image": "https://media.forgecdn.net/attachments/1190/65/full-gif.gif",
-    "downloadUrl": "https://edge.forgecdn.net/files/6550/330/TSZA%20V1%20(THE%20ZOMBIES)%20%5bBP%5d.mcaddon",
-    "supportedVersions": [
-      "1.21.81",
-      "1.21.80"
-    ],
-    "version": "1.0.0",
-    "category": "Add-on"
-  },
-  {
-    "id": 12,
     "name": "Item Details",
     "description": "Shows up some useful information to some items",
     "image": "https://media.forgecdn.net/attachments/1194/761/1000617288-png.png",
@@ -175,7 +144,7 @@
     "category": "Texture Pack"
   },
   {
-    "id": 13,
+    "id": 11,
     "name": "Ender Acolyte",
     "description": "A mod that adds a couple new things to the end and end mobs",
     "image": "https://media.forgecdn.net/attachments/1194/755/1000070651-png.png",
@@ -187,7 +156,7 @@
     "category": "Add-on"
   },
   {
-    "id": 14,
+    "id": 12,
     "name": "Bedrock UI+",
     "description": "A brand new ui Overhauled from hud+, this ui improves a lots of ui screens, also have so many features that Will helps you in gameplay, such as survival, PVP, etc.",
     "image": "https://media.forgecdn.net/attachments/1190/69/1000602170-png.png",
@@ -207,7 +176,7 @@
     "category": "Texture Pack"
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Health Bars FWS",
     "description": "Ever wanted to know how much health a Zombie has left? Now you can with Health Bars.",
     "image": "https://media.forgecdn.net/attachments/1174/203/health_bars-gif.gif",
@@ -220,7 +189,7 @@
     "category": "Add-on"
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "Fast And Furious Vehicle Pack | v1.0.1 Family Update",
     "description": "Are you looking for Fast And Furious Cars!? well then this is you looking for, in this pack include famous Nissan Skyline R34, Toyota Supra MK4, Mazda RX7 and many more! there are many color option to choose! and you can set them as Die-cast!",
     "image": "https://media.forgecdn.net/attachments/1191/593/1000124898-jpg.jpg",
@@ -240,7 +209,7 @@
     "category": "Add-on"
   },
   {
-    "id": 17,
+    "id": 15,
     "name": "ZC More Crazy Wands",
     "description": "More Crazy Wands is a fun and powerful Minecraft Bedrock Edition addon by Zorrocraft. It introduces a variety of magical wands, each with unique abilities that can help players in combat, building, or exploration.",
     "image": "https://media.forgecdn.net/attachments/1194/663/20250520_155447.jpg",
@@ -257,22 +226,7 @@
     "category": "Add-on"
   },
   {
-    "id": 18,
-    "name": "True Backpack V2.4",
-    "description": "many backpacks, with many spaces, with compatibility with other addons and several extra benefits",
-    "image": "https://media.forgecdn.net/attachments/1157/353/4-png.png",
-    "downloadUrl": "https://edge.forgecdn.net/files/6549/955/True%20backpack%20%5bRP%5d%20v2.4.mcpack",
-    "supportedVersions": [
-      "1.21.81",
-      "1.21.73",
-      "1.21.70",
-      "1.21.80"
-    ],
-    "version": "1.0.2",
-    "category": "Add-on"
-  },
-  {
-    "id": 19,
+    "id": 16,
     "name": "Meatz V5",
     "description": "This addon adds a lot of meat that drops from real life animals and fantasy mobs",
     "image": "https://media.forgecdn.net/attachments/1194/847/1000029930-png.png",
@@ -285,7 +239,7 @@
     "category": "Add-on"
   },
   {
-    "id": 20,
+    "id": 17,
     "name": "DL's Vanilla Excavators",
     "description": "Tired of slow digging? Well, that's over. DL's Vanilla Excavators adds a fully customizable system that will allow you to make your digging experience truly rewarding. You will be able to dig in a 3x3 area, as efficiently as possible!",
     "image": "https://media.forgecdn.net/attachments/1194/562/vanilla-excavators-wallpaper-png.png",
