@@ -257,5 +257,893 @@
     ],
     "version": "1.0.0",
     "category": "Add-on"
+  },
+  {
+    "id": 18,
+    "name": "FPS Booster For MCPE / MCBE",
+    "description": "Boost FPS Instantly! One of the best MCPE lag reducer packs, this FPS booster delivers max performance and smooth gameplay. Crush lag, reduce heat, and play better—1.21+! Perfect for low-end devices! Best For PvP",
+    "image": "https://media.forgecdn.net/attachments/1197/358/1000243386-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/902/FPS%20Booster%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 19,
+    "name": "True Tools v1.8",
+    "description": "A simple tool addon with improved features! What are you waiting for!? Try it if you are tired of vanilla tools",
+    "image": "https://media.forgecdn.net/attachments/1197/351/1-2181-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/867/True%20Tools%20%5bRP%5d%20v1.8.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on"
+  },
+  {
+    "id": 20,
+    "name": "Farther Horizons",
+    "description": "Shoot Cinematics with Farther Horizons!",
+    "image": "https://media.forgecdn.net/attachments/1192/569/1000044866-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/862/Ashiatrix%27s%20Farther%20Horizons.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 21,
+    "name": "No Lag",
+    "description": "Say Goodbye to Lag on MCPE and Bedrock!",
+    "image": "https://media.forgecdn.net/attachments/1192/600/1000044874-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/859/Ashiatrix%27s%20No%20Lag.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 22,
+    "name": "Night Vision [MCPE/Bedrock]",
+    "description": "Brighten up your Minecraft world with the Night Vision Resource Pack!",
+    "image": "https://media.forgecdn.net/attachments/1180/987/1000040210-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/848/Ashiatrix%27s%20Night%20Vision.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 23,
+    "name": "MCPE Escape Room 3",
+    "description": "A single-room escape room map from the \"MCPE Escape Room\" saga.",
+    "image": "https://media.forgecdn.net/attachments/1136/331/mcpe-escape-room-3-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/710/MCPE%20Escape%20Room%203%20(v1.1)%20(Espa%c3%b1ol)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 24,
+    "name": "Zero Deferred Shaders",
+    "description": "This deferred shaders adds better experience when playing it with super realistic quality",
+    "image": "https://media.forgecdn.net/attachments/1189/902/file_000000002ea061f882d6d3bbad2b2c75.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/566/shaders%20Zero%20download%20all.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 25,
+    "name": "Sniffer Custom Finder",
+    "description": "Sniffer Custom Finder lets your Sniffer have a custom choice, whether you want them to dig ONLY torchflower seeds or pitcher pod, how about customizing your chances when finding the said loots.",
+    "image": "https://media.forgecdn.net/attachments/1178/656/pack_icon-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/492/Sniffer%20Custom%20Finder%20v.1.21.81.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 26,
+    "name": "Passive Piglins",
+    "description": "Piglin Passive lets you roam to freely without the fear of getting attacked by piglins with/without gold armor and mining some special blocks (for them like gold blocks).",
+    "image": "https://media.forgecdn.net/attachments/1174/163/videocapture_20250501-150310-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/491/Passive%20Piglin%20v.1.21.81.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 27,
+    "name": "Infinite Villager Trades",
+    "description": "This Minecraft pack gives villagers infinite trades. No need Void Trading, No need waiting for Restock. Perfect for survival or creative.",
+    "image": "https://media.forgecdn.net/attachments/1175/174/lv_0_20250502090647-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/490/Infinite%20Villager%20Trades%20v.1.21.81.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 28,
+    "name": "Hardworking Villagers",
+    "description": "Hardworking Villagers Addon lets you have your Villagers an ability to work with no rest, wander around, and bedtime.  With this addon, you can choose if you want them to not have an afternoon break and no break at all.",
+    "image": "https://media.forgecdn.net/attachments/1178/626/videocapture_20250505-191137-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/489/Hardworking%20Villagers%20v.1.21.81.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 29,
+    "name": "Custom Cured Discounts and No Transformation Witch to Villagers",
+    "description": "Custom Cured Discounts and No Transformation Witch to Villagers lets you cure villagers and they will offer you a custom discounts. In the other hand, this addon lets you also avoid the villagers from turning into a witch with a thunder.",
+    "image": "https://media.forgecdn.net/attachments/1178/594/videocapture_20250505-191248-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6515/329/No%20Transform%20v.1.21.80.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 30,
+    "name": "Piglin Custom Barter and Chances",
+    "description": "Piglin Custom Barter lets you barter to Piglin on the items you wanted it to drop. With this addon, you can choose the drop of the item during the barter without wasting more time, golds, and patience.",
+    "image": "https://media.forgecdn.net/attachments/1174/19/20250501_101830_0000-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/478/Piglin%20Custom%20Barter%20(mc%20v.%201.21.80).mcpack",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 31,
+    "name": "Not Enough Golems",
+    "description": "Adds new golem variants",
+    "image": "https://media.forgecdn.net/attachments/1124/288/neg_banner-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/384/Not%20Enough%20Golems%20v1.2.0.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.6",
+    "category": "Add-on"
+  },
+  {
+    "id": 32,
+    "name": "Tempered in Flame v2.0 (Nether Update Add-on)",
+    "description": "Tempered in Flame is an addon thats meant to reshape the nether COMPLETELY by changing how everything generates, reworking visuals, adding new blocks, structures, mobs , items and so much more",
+    "image": "https://media.forgecdn.net/attachments/1195/101/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6557/199/Tempered_in_Flame_v2.0_hotfix.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 33,
+    "name": "La Nature by Carrot - RAIN SPLASHES!",
+    "description": "Better, realistic rain / rain splash, ambient sounds, fireflies / firefly particle, flowers, lilypad, 3D lantern, 3D sapling, fog and way more, while staying faithful to Minecraft's style and texture. The biggest nature resource pack ever made for Bedrock.",
+    "image": "https://media.forgecdn.net/attachments/1196/173/pixaloop_22_05_2025_00_11_42_1070000-1-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/832/La-Nature-by-Carrot-Alpha-1.0.22.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 34,
+    "name": "Paper Pokemon (The Ultimate Retro Adventure)",
+    "description": "Welcome to the Ultimate 2D Pokemon Adventure! Catch, Earn XP, Evolve!",
+    "image": "https://media.forgecdn.net/attachments/1178/824/paper_pokemon_gif-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/763/Paper%20Pokemon%20V0.8.3%20%5bBP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 35,
+    "name": "Simple Guns (Anarchy for all Devices!)",
+    "description": "Simple Guns adds a few Guns to your world, nothing to heavy, perfect for any device to cause Anarchy!",
+    "image": "https://media.forgecdn.net/attachments/1171/520/simple_guns_gif-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/749/Simple%20Guns%20V1.5.2%20(RP).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 36,
+    "name": "True Survival - Zombie Apocalypse LITE",
+    "description": "It is the end of the world and the dead have risen! Can you survive the Zombie Apocalypse? Optimized for Low end devices!",
+    "image": "https://media.forgecdn.net/attachments/1190/68/lite-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/748/TSZA%20LITE%20V4.0.7%20(BP).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 37,
+    "name": "WorldEdit Addon",
+    "description": "Tired of placing blocks one by one? This WorldEdit-style addon lets you shape terrain, paint blocks, copy-paste structures, and automate tasks with ease. Build faster, smarter, and take full control of your Minecraft creations!",
+    "image": "https://media.forgecdn.net/attachments/1194/445/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/623/%5bBP%5d%20WorldEdit%20v1.2%20By%20BONY162.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 38,
+    "name": "Unbreakable Items",
+    "description": "Tired of having to add unbreaking 3 to everything? Well if you get this addon you make your items completely unbreakable!",
+    "image": "https://media.forgecdn.net/attachments/1196/225/unbreakableitemsdl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/615/Unbreakable%20Items%20BP%20v2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 39,
+    "name": "All-Purpose Drone",
+    "description": "A small robot that will obey all your orders, such as mining, building, attacking mobs, collecting items and more. You can also find an antenna and a remote control very useful to control a large group of drones.",
+    "image": "https://media.forgecdn.net/attachments/1099/310/1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/504/All-Purpose%20Drone%20(1.21.80%2b).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.4",
+    "category": "Add-on"
+  },
+  {
+    "id": 40,
+    "name": "Nebula PvP Realism 64x",
+    "description": "This is just a clean nebula pvp texture pack that doesn't have too much",
+    "image": "https://media.forgecdn.net/attachments/1184/314/retouch_2025051101011643-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/393/Nebula_PvP_Realism_64x.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 41,
+    "name": "Bolt & Buddies",
+    "description": "This addon adds a new crossbow with a unique mechanic — it shoots three arrows at once, and with the Multishot enchantment, all five!",
+    "image": "https://media.forgecdn.net/attachments/1196/784/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/349/Bolt%20%20Buddies%20v.1.1.2_bug_fix.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 42,
+    "name": "Rudai Items",
+    "description": "This addon will add items, mobs, weapons to your world",
+    "image": "https://media.forgecdn.net/attachments/1186/176/1000030724-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/140/Rudai%20Items%20v1.5.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 43,
+    "name": "Dynamic Light Addon + Offhand Torch (Second Hand)",
+    "description": "Ever wanted Dynamic Light just like Java's Optifine? Well this add-on is for you because it makes every light source emit real light in your handNEW: With the command /function handtorch the torch can be moved to the offhand (second hand).",
+    "image": "https://media.forgecdn.net/attachments/1052/909/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6556/33/DynamicLightAddon.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 44,
+    "name": "Starter House Survival - KeepInventory & Achievements Enabled",
+    "description": "Do you want to have a nice house on minecraft? Perfect! Here you can choose the house you like and start your new adventure in a survival world.  In these worlds you will have the Keep Inventory and the Achievements are Enabled!",
+    "image": "https://media.forgecdn.net/attachments/1155/625/senza-titolo-220_20250412162640-1-2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/966/Survival%20World%2012%20%2b%20Hardcore%20Mode.mcworld",
+    "supportedVersions": [
+      "1.21.70"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 45,
+    "name": "Dragon Mounts",
+    "description": "Dragon Mounts: Bedrock Edition adds 8 ridable dragons into your worlds. The true reward after beating the Ender Dragon!",
+    "image": "https://media.forgecdn.net/attachments/1181/359/untitled657_20250508200154.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/962/DragonMounts-v1.1.4.4.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 46,
+    "name": "All Biomes Survival (Achievements On)",
+    "description": "In this world there are many biomes of all types, there are also the biomes of the nether and the end. Will you be able to survive in this world?",
+    "image": "https://media.forgecdn.net/attachments/1053/231/1z.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/940/All%20Biomes%20Survival.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 47,
+    "name": "BedrockTeams",
+    "description": "A Minecraft: Bedrock Edition add-on inspired by BetterTeams. It encourage people to team up and providing them tool to improve their team and interaction with each others.",
+    "image": "https://media.forgecdn.net/attachments/1187/57/1000309897-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/939/BedrockTeams-V1.0.21%20(STABLE).mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 48,
+    "name": "More Beautiful Grass",
+    "description": "With this texture pack you can make the Grass Block colors with a higher saturation , in order to have a Better Panorama of the Landscapes in your world!",
+    "image": "https://media.forgecdn.net/attachments/1053/263/1x.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/937/MoreBeautifulGrass.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 49,
+    "name": "Invisible Item Frame & Glow Item Frame",
+    "description": "With this texture pack you can make the Item Frame and Glow Frame Invisible and make your builds more realistic, using the items as decorations, for example adding apples to a tree!",
+    "image": "https://media.forgecdn.net/attachments/1052/921/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/935/InvisibleFrames.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack"
+  },
+  {
+    "id": 50,
+    "name": "Medieval City in a Snow Plain",
+    "description": "This city is in snow plain, a beautiful place where nature and buildings come together. The city has houses, and cool other beautiful buildings, for example a lighthouse, and a medieval ship. There are also many particular constructions.",
+    "image": "https://media.forgecdn.net/attachments/1052/612/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/927/Medieval%20City%20in%20a%20Snow%20Plain.mcworld",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 51,
+    "name": "Miner Helmet with Dynamic Light",
+    "description": "Ever wanted Dynamic Light just like Java's Optifine? Well this add-on is for you because it makes every light source emit real light in your helmet. In fact now you will have the Iron Helmet with Dynamic Light!",
+    "image": "https://media.forgecdn.net/attachments/1053/229/1z.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/926/MinerHelmet.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 52,
+    "name": "Master of Miner Chickens",
+    "description": "🐔💎 Change the way you mine! With the Ore Chickens Addon [BETA], chickens lay iron, gold, diamonds, and more. Easy to install, no experimental gameplay needed. Guaranteed fun and updates coming soon!",
+    "image": "https://media.forgecdn.net/attachments/1193/904/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/901/Master%20Chicken%20Ores.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 53,
+    "name": "Connected Textures (Optifine CTM)",
+    "description": "Remove the borders of individual blocks! This automatically connects the borders of the blocks in your world!",
+    "image": "https://media.forgecdn.net/attachments/1194/870/untitled270_20250520232215-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/899/Connected%20Textures%201.5.3.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 54,
+    "name": "Java's Dynamic Lighting",
+    "description": "Want to experience the dynamic lighting of optifine but in bedrock? Then this is the addon for you!",
+    "image": "https://media.forgecdn.net/attachments/1196/751/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/871/Java%27s%20Dynamic%20Lighting%201.6.3.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 55,
+    "name": "MC ARK PRIMITIVE",
+    "description": "Mc Ark is an addon for Minecraft that adds dinosaurs, with a basic but very fun level system, in addition, it has a highly polished breeding and battle system. MC ark has the thought of becoming a dinosaur add-on that I added a totally new type of gameplay",
+    "image": "https://media.forgecdn.net/attachments/1187/685/whatsapp-image-2025-05-13-at-2-10-36-am-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/760/McArk2.1.1ST.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 56,
+    "name": "OP Item Rain",
+    "description": "This addon periodically showers you with random items, but sometimes the rain will contain extremely Overpowered items instead. Can you survive the chaos, get lucky with rare drops, and beat the game?",
+    "image": "https://media.forgecdn.net/attachments/1170/976/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/752/%5bBP%5d%20OP%20Item%20Rain%20v1.3%20by%20BONY162.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 57,
+    "name": "Dragon Mounts 2",
+    "description": "Dragon Mounts 2: Bedrock Edition is a sequel to Dragon Mounts that adds extra content, nests, tools and armor!",
+    "image": "https://media.forgecdn.net/attachments/1196/764/untitled657_20250523003534.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/709/DragonMounts2-v2.5.2.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 58,
+    "name": "Escape from Bedrock Prison 3",
+    "description": "You managed to escape from the previous Bedrock prison series, but can you escape from Bedrock prison now?",
+    "image": "https://media.forgecdn.net/attachments/1178/207/1000010057-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/600/Escape%20from%20Bedrock%20Prison%203%20(2.0.0).mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 59,
+    "name": "ITEM REMOVER ADD-ON",
+    "description": "Automatically removes dropped items after 30 seconds to reduce lag and keep your world clean. Lightweight, no scripts or Gametest used. Perfect for survival and multiplayer worlds.",
+    "image": "https://media.forgecdn.net/attachments/1192/516/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/517/Item%20Remover%20V2.3.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 60,
+    "name": "Wonderblocks",
+    "description": "Are you need Wonderblocks in Minecraft? You can press and hold the screen or right-click while holding morph item to morph Wonderblocks characters in Minecraft, and play Wonderblocks roleplay in Minecraft.",
+    "image": "https://media.forgecdn.net/attachments/1123/139/operatorsmcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/360/Wonderblocks%201.0.1.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 61,
+    "name": "Utilities Vein Miner",
+    "description": "While you were mining you found giant piles of gravel or minerals and wanted to break them faster, now you can with Utilities Vein Miner",
+    "image": "https://media.forgecdn.net/attachments/1195/954/utilities-vein-miner-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/196/Utils_Vein_Miner_v1.0.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 62,
+    "name": "Better NightVision [Achievements]",
+    "description": "BetterNightVision  (Achievements Works) - A lightweight, user-friendly addon that lets players toggle Night Vision with ease.",
+    "image": "https://media.forgecdn.net/attachments/1174/912/1000011706-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/155/Better%20NightVision%201.3.1%20RP.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on"
+  },
+  {
+    "id": 63,
+    "name": "MCPE Escape Room 2",
+    "description": "A simple Escape Room map from the \"MCPE Escape Room\" saga.",
+    "image": "https://media.forgecdn.net/attachments/1136/323/mcpe-escape-room-2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/88/MCPE%20Escape%20Room%202%20(Euskera)%20(v1.1)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 64,
+    "name": "Endless Parkour World [Cave]",
+    "description": "This Parkour Map contains near to every biome and Parkour Type you could imagine aswell as having small Escape Room  elements. HAVE FUN!",
+    "image": "https://media.forgecdn.net/attachments/1172/309/realrelease-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/87/Bridgecrafter%27s%20Endless%20Parkour%20World%20v1.7.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 65,
+    "name": "Library Escape",
+    "description": "An Escape Room made for enthusiastics of Puzzles based on a Minecraft Library.",
+    "image": "https://media.forgecdn.net/attachments/1136/412/library-escape-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/52/Library%20Escape%20(Espa%c3%b1ol)%20(v1.2)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 66,
+    "name": "Escape From The Prison",
+    "description": "One of the most-valorated Escape Room maps of MCPEDL.",
+    "image": "https://media.forgecdn.net/attachments/1136/357/escape-from-the-prison-1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/48/Escape%20From%20The%20Prison%20(Espa%c3%b1ol)%20(v2.1)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 67,
+    "name": "More Vanilla Bows+ Complete",
+    "description": "More Vanilla Bows+ Complete, the lightweight addon that adds 9 new vanilla-material bows and 8 matching arrows—from Stone and Iron up through Netherite, Amethyst, and Emerald—to reward your resource gathering with superior ranged weapons.",
+    "image": "https://media.forgecdn.net/attachments/1196/362/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/43/More_Vanilla_Bows_RP.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 68,
+    "name": "MCPE Escape Room",
+    "description": "A simple escape room made for enthusiastics of Puzzles.",
+    "image": "https://media.forgecdn.net/attachments/1136/301/mcpe-escape-room-1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/39/MCPE%20Escape%20Room%20(Espa%c3%b1ol)%20(v2.1)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 69,
+    "name": "Tree Capitator v1.5",
+    "description": "Cut down trees at a high speed and use a variety of axes from other addons to take advantage of this feature!!",
+    "image": "https://media.forgecdn.net/attachments/1196/413/1-5-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/34/Tree%20capitator%20%5bRP%5d%20v1.5.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.3",
+    "category": "Add-on"
+  },
+  {
+    "id": 70,
+    "name": "The Ultimate Morph 2.0",
+    "description": "Want to transform into mobs, blocks, items, furniture, or even anime and gaming characters? With this easy-to-use addon, it's all possible",
+    "image": "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/15/The%20Ultimate%20Morph%202.0.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 71,
+    "name": "ZC Modpack 2.4",
+    "description": "It's a helping Modpack included my upcoming mods with cool stuff, block & recipe like backpack",
+    "image": "https://media.forgecdn.net/attachments/1196/352/20250522_130233.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6555/12/ZC%20Modpack%202.4.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 72,
+    "name": "amethystcore",
+    "description": "How about an addon that brings utility to amethyst? One that adds two amethyst armors and three essential tools for your survival — all without losing any achievements?",
+    "image": "https://media.forgecdn.net/attachments/1183/983/icon-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/989/AmethCore%5b1.5.6%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.70"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 73,
+    "name": "Survival Modern House #19 (Achievements On)",
+    "description": "Welcome to my 19th house in the Survival Series! 🏠✨",
+    "image": "https://media.forgecdn.net/attachments/1196/339/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/896/JST%20House%2019.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 74,
+    "name": "True Veinminer",
+    "description": "break twice as fast with this addon, need speed!? With this addon you can break as many blocks and walls from the caves at an impressive speed. This addon is compatible with other addon!",
+    "image": "https://media.forgecdn.net/attachments/865/716/1.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/843/True%20Veinminer%20%5bBP%5d%20v1.3.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on"
+  },
+  {
+    "id": 75,
+    "name": "WAR OF THE WORLDS",
+    "description": "Enter a world guarded by the Martians who have come to conquer the earth with their tripods",
+    "image": "https://media.forgecdn.net/attachments/1196/306/portada_dos-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/772/V1_war_of_the_worlds.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 76,
+    "name": "Miners' Dream (Break things faster!)",
+    "description": "Break all types of blocks much faster",
+    "image": "https://media.forgecdn.net/attachments/1192/879/sem-tatulo-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/632/Miners%27%20Dream.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 77,
+    "name": "Fishing Enhanced NEW UPDATE",
+    "description": "Enhanced Fishing Add-On focused on introducing TONS of NEW fish and a BRAND NEW set of armour! Created by HarryBeest",
+    "image": "https://media.forgecdn.net/attachments/1196/232/mcpedl-fishing-enhanced-icon-update-2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/427/Fishing%20Enhanced%20Update%201.mcaddon",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 78,
+    "name": "Republic Armory UPDATE MORE WEAPONS/ MilSim Server",
+    "description": "This addon brings all of the clone wars era republic blasters. This addon is extended version with attachments to each gun to customize your weapon.  Join the MilSim today to experience realistic battles with my private addons.",
+    "image": "https://media.forgecdn.net/attachments/1183/393/screenshot-171-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/393/ax0wig%20armory%20RP.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 79,
+    "name": "Skin Pack 1 Legacy",
+    "description": "Legacy To Bedrock",
+    "image": "https://media.forgecdn.net/attachments/1196/402/be_skin_pack_1_-_classic-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/391/Skin%20Pack%201%20Legacy.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on"
   }
 ]
