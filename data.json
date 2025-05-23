@@ -40,5 +40,57 @@
     "supportedVersions": ["1.21.80","1.21.70"],
     "version": "1.0.0", 
     "category": "tools"
+  },
+  
+  {
+    "id": 5,
+    "name": "More Vanilla Tools [Achievements]",
+    "description": "Add functional, balanced toolsets for Copper, Amethyst, and Quartz.",
+    "image": "https://media.forgecdn.net/attachments/1192/791/1000015446-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/514/More%20Vanilla%20Tools%20RP%201.0.2.mcpack",
+    "supportedVersions": ["1.21.81", "1.21.73", "1.21.70", "1.21.80"],
+    "version": "1.0.2",
+    "category": "Add-on"
+  },
+  {
+    "id": 6,
+    "name": "[Realm compatible] Elemental Swords",
+    "description": "6 swords with unique powers and one secret weapon.",
+    "image": "https://media.forgecdn.net/attachments/1176/569/elemental-swords-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/459/%c2%a72Elemental%20Swords%c2%a7d%5b2.3.7%5d.mcaddon",
+    "supportedVersions": ["1.21.81", "1.21.73", "1.21.70", "1.21.80"],
+    "version": "2.3.7",
+    "category": "Add-on"
+  },
+  {
+    "id": 7,
+    "name": "LandLocker",
+    "description": "An add-on inspired by GriefPrevention.",
+    "image": "https://media.forgecdn.net/attachments/1187/56/1000309896-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/448/LandLocker-V1.0.23%20(STABLE).mcpack",
+    "supportedVersions": ["1.21.81", "1.21.80"],
+    "version": "1.0.23",
+    "category": "Add-on"
+  },
+  {
+    "id": 8,
+    "name": "True Survival - Zombie Apocalypse",
+    "description": "Survive the zombie apocalypse!",
+    "image": "https://media.forgecdn.net/attachments/1190/65/full-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/330/TSZA%20V1%20(THE%20ZOMBIES)%20%5bBP%5d.mcaddon",
+    "supportedVersions": ["1.21.81", "1.21.80"],
+    "version": "1.0",
+    "category": "Add-on"
+  },
+  {
+    "id": 9,
+    "name": "Dew Ore Vein Miner",
+    "description": "Vein mine ores with compatibility for Fortune and Unbreaking.",
+    "image": "https://media.forgecdn.net/attachments/888/803/ore-vein-miner.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/327/Dew%27s%20Ore%20Vein%20Miner%20V1.21%2b%20STABLE%20V2.2.mcpack",
+    "supportedVersions": ["1.21"],
+    "version": "2.2",
+    "category": "Add-on"
   }
+  
 ]
