@@ -1145,5 +1145,3203 @@
     ],
     "version": "1.0.0",
     "category": "Add-on"
+  },
+  {
+    "name": "The Ty-el's UI Pack",
+    "description": "An UI treatment pack for Minecraft Vanilla UI, which adds some features, tweaks to make your experience somehow(?) better!",
+    "image": "https://media.forgecdn.net/attachments/956/968/thumbdlui.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6558/243/Ty-el%20UI%20v1.2.4.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack",
+    "id": 80
+  },
+  {
+    "name": "Nasa's Tp/player warps Add-On",
+    "description": "Nasa's Tp/player warps Add-On: A simple warp/tp menu to create, rename, delete & publish warps. Admins set limits via /tag @s add admin. Open the main menu using !tp in chat",
+    "image": "https://media.forgecdn.net/attachments/1194/806/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6558/33/Nasa%27s%20Tp%20%20player%20warps%20Add-On%20%c2%a7g%5b1.0.2%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 81
+  },
+  {
+    "name": "Battle And Beasts",
+    "description": "Ported From Legacy Console",
+    "image": "https://media.forgecdn.net/attachments/1196/406/battlebeastssp-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/325/Battle%20And%20Beasts%20Legacy.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 82
+  },
+  {
+    "name": "Battle Mini Game",
+    "description": "Ready your enchanted rods! Strap on your diamond helms! And get ready to do Battle - a mini game originally developed for the long-discontinued console editions, now ported to Bedrock",
+    "image": "https://media.forgecdn.net/attachments/1167/761/battle-minigame-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/301/WORLD%20FILE%20-%20Battle%20Mini%20Game%201.2.3.mcworld",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 83
+  },
+  {
+    "name": "CoolCrafter6464's Testing World!",
+    "description": "This is a world of mine where I test new farms, redstone contraptions, and building techniques. I'll update it and add more things soon. I uploaded this because I thought people might be interested in this stuff for some reason :D",
+    "image": "https://media.forgecdn.net/attachments/1196/200/worldcropped-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/187/Testing%20World.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 84
+  },
+  {
+    "name": "World Animals",
+    "description": "With this add-on you add a variety of new animals that will appear in our Minecraft worlds, most animals are aggressive, others can be domesticated to defend against mobs and some animals can be ridden.",
+    "image": "https://media.forgecdn.net/attachments/1196/137/elephant-png.PNG",
+    "downloadUrl": "https://edge.forgecdn.net/files/6554/3/World%20Animals%20Add-on.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 85
+  },
+  {
+    "name": "BETTER PVP PLUS",
+    "description": "WHIT THIS TEXTURE PACKS YOU CAN WIN MORE PVP PLAYS",
+    "image": "https://media.forgecdn.net/attachments/1196/127/texture-pack-logo-92-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/938/BETTER%20PVP%20PLUS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 86
+  },
+  {
+    "name": "Dodge Car Pack",
+    "description": "With a focus on performance and style, this pack includes four iconic vehicles, each with a unique personality",
+    "image": "https://media.forgecdn.net/attachments/1196/987/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/919/Dodge%20Car%20Pack.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 87
+  },
+  {
+    "name": "[Realm compatible]Marvel & Dc Superhero's",
+    "description": "Deadpool Dogpool added!  Marvel & Dc Superheros addon! This addon introduces iconic hero suits like the Flash,  iron man, captain america, batman, The hulk, Superman, Spiderman, Venom and new additions Deadpool and dogpool",
+    "image": "https://media.forgecdn.net/attachments/1190/281/screenshot-2025-05-16-123913-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/773/%c2%a7l%c2%a74Marvel%20%20Dc%20superheros%c2%a7e%5b1.8.6%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 88
+  },
+  {
+    "name": "Crystal Palace Hunt",
+    "description": "A scavenger hunt in this beautiful palace and garden! 🔮",
+    "image": "https://media.forgecdn.net/attachments/1196/40/crystal-palace-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/692/Crystal%20Palace%20BE.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 89
+  },
+  {
+    "name": "NOXUS (extirpation) music disc",
+    "description": "this pack adds extirpation part of twisted garden",
+    "image": "https://media.forgecdn.net/attachments/1195/998/screenshot-2025-05-21-175109-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/548/noxus%20(extirpation)%20music%20disc.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 90
+  },
+  {
+    "name": "The flat world experience!",
+    "description": "If you always wanted to beat MC in a flat world but didn't want to only use vanilla ways this is the mod for you!. to the brave soul who wants to try this mod, Good luck by Jihrexz 666 and TerraDaIdiot",
+    "image": "https://media.forgecdn.net/attachments/1163/130/1000613405-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/452/%c2%a7o%c2%a7lThe%20flat%20world%20experience!%20%c2%a721.3.1_1747843804483.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 91
+  },
+  {
+    "name": "nameless diety disc",
+    "description": "this addon ads af music disc of nameless deity theme/twisted garden",
+    "image": "https://media.forgecdn.net/attachments/1195/963/screenshot-2025-05-21-182458-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/438/nameless%20diety%20music%20disc.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 92
+  },
+  {
+    "name": "Timer Ultimate",
+    "description": "Track the time spent in your Minecraft World",
+    "image": "https://media.forgecdn.net/attachments/1178/873/bedrockedition-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/408/TimerU%2bCA_v.4.2.1.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 93
+  },
+  {
+    "name": "TickSpeed Controller  Add-on",
+    "description": "Sets randomtickspeed to 300 automatically on world initialization for faster crop growth and random events. No manual commands needed.",
+    "image": "https://media.forgecdn.net/attachments/1195/931/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/130/RTS%20V0.2.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 94
+  },
+  {
+    "name": "All Pigs Resource Pack",
+    "description": "All Pigs Resource Pack brings fun and challenge to your game.",
+    "image": "https://media.forgecdn.net/attachments/1195/845/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/76/all_pigs_v1.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 95
+  },
+  {
+    "name": "Additional Totem [Addon] [Totem]",
+    "description": "Adding more totems into minecraft while keeping it minecrafty as much as possible",
+    "image": "https://media.forgecdn.net/attachments/1195/796/20250517_210311-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/50/AddTotem_v1.1.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 96
+  },
+  {
+    "name": "DL's Vein Miner & Tree Capitator",
+    "description": "Add two features within Minecraft! Vein Miner & Tree Capitator adds the function of destroying all the minerals and logs in your world by only chopping or cutting down only a part of them with their respective tool!",
+    "image": "https://media.forgecdn.net/attachments/1118/676/vein-miner-tree-wallpaper-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/12/DL%27s%20Vein%20Miner%20%20Tree%20Capitator%20v2.1%20%5bBP%5d%20-%20By%20DARKLEXx.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 97
+  },
+  {
+    "name": "DL's Tree Capitator",
+    "description": "Cutting trees has never been so easy in Minecraft, add this great functionality, cut down only a part of the tree trunk and watch all the tree trunks fall efficiently!",
+    "image": "https://media.forgecdn.net/attachments/1112/953/tree-capitator-wallpaper-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6553/9/DL%27s%20Tree%20Capitator%20v2.3%20%5bBP%5d%20-%20By%20DARKLEXx.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 98
+  },
+  {
+    "name": "No Lava & Water Fog",
+    "description": "Are you got distracted of water or lava fogs? This pack removed them completely! Removed water fog and enhance your exploring experience. Also with clearer water surface. And remove lava fog, it's useful for finding ancient debris under the lava pool",
+    "image": "https://media.forgecdn.net/attachments/1153/739/20250226_154623-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/998/No%20LavaWater%20Fog%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 99
+  },
+  {
+    "name": "Item Rarity Viewer",
+    "description": "After a Minecraft update to item rarity, there are many item that had a rarity Change, and with this pack you can see the rarity of the item more easily and also added some interesting visual in this pack!",
+    "image": "https://media.forgecdn.net/attachments/1152/942/tak-berjudul147_20241029180256-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/988/itemrarityviewer%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 100
+  },
+  {
+    "name": "Dynamic Bossbar",
+    "description": "Are you bored with vanilla bossbar that just solid magenta color? Well, You've come to the right place, this pack change the old bossbar into something cooler and it's have different texture depend what boss do you fight",
+    "image": "https://media.forgecdn.net/attachments/1157/927/tak-berjudul94_20250319161905-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/982/Dynamic%20Bossbar%20Texture%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 101
+  },
+  {
+    "name": "Colorful Bundle Tooltip",
+    "description": "This pack change a little bit of bundle tooltip ui so it Will become more interesting",
+    "image": "https://media.forgecdn.net/attachments/1033/792/1000176412.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/976/Colorful%20Bundle%20Tooltip%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 102
+  },
+  {
+    "name": "Brewing Guide Overhauled",
+    "description": "Do you Want to make a potion but Don't know what's the recipe? And you too lazy for looking the recipe on internet?Maybe you Will need this pack, including any potion even the new 1.21 potion",
+    "image": "https://media.forgecdn.net/attachments/1157/928/tak-berjudul146_20241029134851-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/970/brewguideOverhaul%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 103
+  },
+  {
+    "name": "Elemental Swords",
+    "description": "Elemental Sword is an addon that adds magical swords with powers. In this version, you can find the fire sword and the blue fire sword; their hidden power generates a circle of fire that burns nearby enemies.",
+    "image": "https://media.forgecdn.net/attachments/1003/2/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/951/Elemental%20Sword%20v1.0.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 104
+  },
+  {
+    "name": "More Fences Addon",
+    "description": "Are Fences in Minecraft too boring to you? Well, this Addon is for you!! Its because this Add-on added more Fences in Minecraft!! This Addon Added 31 new Fences for you and your friends to enjoy!!",
+    "image": "https://media.forgecdn.net/attachments/1193/310/20240124094046_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/890/More%20Fences%20Addon.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 105
+  },
+  {
+    "name": "Offhand Dynamic Lights",
+    "description": "Experience Dynamic Lights with Offhand Torches!",
+    "image": "https://media.forgecdn.net/attachments/1186/229/1000041088-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/746/Ashiatrix%27s%20Dynamic%20Lights.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 106
+  },
+  {
+    "name": "Truly Bedrock+ (1.21.82 Support)",
+    "description": "Truly Bedrock+ Texture Pack – Redefine Your Minecraft Experience!   Take your Minecraft gameplay to the next level with Truly Bedrock+, the ultimate texture pack that brings over 100+ incredible features to enhance your world.",
+    "image": "https://media.forgecdn.net/attachments/1155/393/screenshot-2025-01-11-090113-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/724/Truly%20Bedrock%2b%20v1.1.9.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack",
+    "id": 107
+  },
+  {
+    "name": "Warriors' Client",
+    "description": "Warriors' Client for Minecraft PE enhances gameplay with features like Quick Loot and Quick Craft for faster item management. Enjoy an FPS Boost for smoother performance and Better PvP mechanics for improved combat.",
+    "image": "https://media.forgecdn.net/attachments/1195/658/20250521_162723-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/715/Warriors%27%20Client%20v3.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 108
+  },
+  {
+    "name": "Nico's Magic Spells",
+    "description": "Adds scroll-based spellcasting, new magical villagers, structures, and over 70 custom scrolls to Minecraft. Craft powerful spells, trade rare magical items, and explore a world filled with mystical lore and enchanted discoveries!",
+    "image": "https://media.forgecdn.net/attachments/1195/655/nicos-magic-spell-v1-0-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/698/Nicos%20Magic%20Spells%20(v1.0).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 109
+  },
+  {
+    "name": "Total Utility PE",
+    "description": "Total Utility PE is a carefully designed texture pack to enhance your gameplay experience in Minecraft PE/Bedrock 1.21, combining modern visual aesthetics, gameplay optimization, and functional utilities into one lightweight and effective package",
+    "image": "https://media.forgecdn.net/attachments/1195/687/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/645/Tota%20Utility%20PE%20v2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 110
+  },
+  {
+    "name": "LookUp Framework",
+    "description": "LookUp is a tool designed to provide informative and customizable recipe screens for minecraft bedrock add-ons.",
+    "image": "https://media.forgecdn.net/attachments/1195/254/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/561/LookUp%20Framework.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 111
+  },
+  {
+    "name": "The Fates Intertwined",
+    "description": "An Add-Ons that adds more game content such as new weapons, modified boss fight, and a new bosses waiting for you",
+    "image": "https://media.forgecdn.net/attachments/1188/127/yt-thumbnail-fates-stars-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/542/The%20Fates%20Intertwined%202025.5.3%20(1.21.80).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 112
+  },
+  {
+    "name": "Z-ORIGINS",
+    "description": "Add RPG-style character classes to your Minecraft experience! This addon introduces unique origins , each with special powers, traits, and challenges. Choose your origin and play Minecraft in a whole new way",
+    "image": "https://media.forgecdn.net/attachments/1196/491/merry-bright-1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/526/Zorigins%20v9%20by%20zazack6260.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 113
+  },
+  {
+    "name": "XP Storage FWS",
+    "description": "Keep your levels stored for future uses while you go out into the wild!",
+    "image": "https://media.forgecdn.net/attachments/1051/102/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/499/XP%20Storage%20V0.1.1%20%5bBP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 114
+  },
+  {
+    "name": "Willy's early British Gear",
+    "description": "Early British gear during the 80's to 90's",
+    "image": "https://media.forgecdn.net/attachments/1195/464/untitled115_20250521132039-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/409/WEBG.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 115
+  },
+  {
+    "name": "Backpacks (Carry more Items in Style!)",
+    "description": "Craft your very own Backpack to make adventures easier then ever!",
+    "image": "https://media.forgecdn.net/attachments/1141/894/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/347/Backpacks%20V1.7.6%20%5bBP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 116
+  },
+  {
+    "name": "Expanded Soundscapes",
+    "description": "Loads of entirely new music that plays as you adventure in your worlds!",
+    "image": "https://media.forgecdn.net/attachments/1195/528/minecraft_title.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/318/Expanded%20Soundscapes%20V1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 117
+  },
+  {
+    "name": "Narra \"The Sorrow of the Void\"",
+    "description": "Do you want a new Female boss in minecraft? Well this addon is for you, This addon adds Narra, A Powerful Female boss with 2 custom attack, 1 special attack and 3 abilities...",
+    "image": "https://media.forgecdn.net/attachments/1175/345/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/258/Rine%20Addon%5bNarra%27s%20Version%5d%5bV.1.5.0%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.50"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 118
+  },
+  {
+    "name": "Animated Glowing Ores",
+    "description": "[Requires Vibrant visuals!] This pack makes the ores becomes glowing and more visible in dark caves",
+    "image": "https://media.forgecdn.net/attachments/1184/927/1000586191-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/111/Animated%20Glowing%20Ores%20v1.2.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 119
+  },
+  {
+    "name": "mq's decrafting table",
+    "description": "Deconstruct all vanilla items",
+    "image": "https://media.forgecdn.net/attachments/1185/35/mq_decrafting_table-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/93/MQ%e7%9a%84%e5%88%86%e8%a7%a3%e5%8f%b0-v1.21.70.3.mcaddon",
+    "supportedVersions": [
+      "1.21.70"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 120
+  },
+  {
+    "name": "Zone By Zone",
+    "description": "Zone by Zone is a Parkour and Puzzle map, where you will have to overcome levels and unlock zones.",
+    "image": "https://media.forgecdn.net/attachments/1193/219/1000053752-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/23/ZPZ_1.0_ES.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 121
+  },
+  {
+    "name": "Lodekey Addon",
+    "description": "Adds a lodekey item that allows you to activate the power of the lodestone, turning it into a waystone for fast travel.",
+    "image": "https://media.forgecdn.net/attachments/1195/789/mcpedl-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6552/5/Lodekey.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 122
+  },
+  {
+    "name": "Dynamic Lighting with Torches",
+    "description": "Tired of crafting and placing torches endlessly? Missing ores? Can't explore caves? Then this Textures pack is just for you!",
+    "image": "https://media.forgecdn.net/attachments/1195/413/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/981/Dynamic.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 123
+  },
+  {
+    "name": "Block Replacer",
+    "description": "The script allows players to use a custom item Block Replacer Hammer  to replace blocks in a selected area (max 50x50x50) in Minecraft.",
+    "image": "https://media.forgecdn.net/attachments/1161/721/20250418_201154-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/975/Block%20Replacer%20v1.0.2.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 124
+  },
+  {
+    "name": "Storage Addon",
+    "description": "The Cloud Storage Connector Addon revolutionizes your Minecraft storage system by allowing you to link multiple chests and storage blocks across your world.",
+    "image": "https://media.forgecdn.net/attachments/1160/895/logo-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/973/Storage%20Addon%20v2.0.3.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 125
+  },
+  {
+    "name": "Item Pipe",
+    "description": "UM Item Pipe is a simple addon that transfers items between chests automatically using connected pipes.",
+    "image": "https://media.forgecdn.net/attachments/1187/123/1000114042-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/971/Item%20Pipe%20v1.4.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 126
+  },
+  {
+    "name": "Build Wand",
+    "description": "Take the Build Wand in your hand and select the first position of the block where you want to start filling. You can check this by tapping on the block in your area. Then, select the second position up to where you want to fill the blocks.",
+    "image": "https://media.forgecdn.net/attachments/1167/593/1000111872-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/970/Build%20Wand%20V5.1.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 127
+  },
+  {
+    "name": "Destory Wand",
+    "description": "The Destroy Wand addon allows players to quickly break multiple blocks in Minecraft using a special wand and a pickaxe. Select two points, confirm, and watch the blocks vanish instantly!",
+    "image": "https://media.forgecdn.net/attachments/1159/296/1000111317-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/969/Destroy%20Wand%20V3.2.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 128
+  },
+  {
+    "name": "Little Land SMP",
+    "description": "Little Land SMP is a Realm for bedrock edition, its a realm that a small group of people have built on for the past 3 years.",
+    "image": "https://media.forgecdn.net/attachments/1178/923/1000088708-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/756/Little%20Land%20SMP%20-%20Season%208.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 129
+  },
+  {
+    "name": "Skill Points",
+    "description": "Every 10 levels you are given the option to spend a Skill Point on any of the various effects in the game that will help you in your survival.",
+    "image": "https://media.forgecdn.net/attachments/1160/493/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/607/SkillPoints_v1.5.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 130
+  },
+  {
+    "name": "Vibrant  Visuals PLUS pack",
+    "description": "Resource pack with a tuned setting for Vibrant visuals. Enjoy beautiful godrays, tuned sunlight, water waves and many more. Can be used without a texture pack or with any texture pack.",
+    "image": "https://media.forgecdn.net/attachments/1154/623/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/350/RealSource-VibrantVisualsPLUS_1.1-LITE.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 131
+  },
+  {
+    "name": "Dogs+",
+    "description": "With this add-on you will add to your Minecraft a variety of dogs of different breeds that you can tame, find them in your survival world, feed them to improve their behavior, customize your dog, perform various tricks and much more.",
+    "image": "https://media.forgecdn.net/attachments/1195/202/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/153/Dogs%20Plus%20Add-on.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 132
+  },
+  {
+    "name": "Phase Blocks (Walk through any Block!)",
+    "description": "Keep your base a complete secret with Phase Blocks, Pass through blocks that know one else knows about!",
+    "image": "https://media.forgecdn.net/attachments/1173/384/phase_blocks-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/152/Phase%20Blocks%20V0.9.3%20%5bBP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 133
+  },
+  {
+    "name": "Newb X Trailer",
+    "description": "Here comes a new update of this shader now based on the Minecraft Village & Pillage trailer of the 1.14 update",
+    "image": "https://media.forgecdn.net/attachments/1182/923/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6551/56/Newb%20X%20Trailer%20Update%201.15%20-%20iOS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 134
+  },
+  {
+    "name": "Trailer Graphics Patch",
+    "description": "After a long time the trailer graphics have returned. Trailer Graphics has arrived after so many patches",
+    "image": "https://media.forgecdn.net/attachments/1162/132/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/981/Trailer%20Graphics%20Low%20-%20Mode%20Day.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 135
+  },
+  {
+    "name": "True Backpack V2.4",
+    "description": "many backpacks, with many spaces, with compatibility with other addons and several extra benefits",
+    "image": "https://media.forgecdn.net/attachments/1195/81/2-4-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/946/True%20backpack%20%5bRP%5d%20v2.4.1.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 136
+  },
+  {
+    "name": "Realismo Graphics RenderDragon",
+    "description": "Realismo Graphics is back but now with new features that add more realism to Minecraft",
+    "image": "https://media.forgecdn.net/attachments/1165/433/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/928/Realismo%20Graphics%20Low%20-%20Mode%20Vibrant.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 137
+  },
+  {
+    "name": "Pixel Graphics",
+    "description": "Pixel Graphics are a graphics package based on bits and pixels for those users who prefer to keep graphics simple",
+    "image": "https://media.forgecdn.net/attachments/1165/438/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/902/Pixel%20Graphics%20Low%20-%20Mode%20Fantasy.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 138
+  },
+  {
+    "name": "Bumbli Graphics",
+    "description": "Have you been looking for realistic renderdragon packages and haven't found any realistic enough for you? If so, I present to you Bumbli graphics",
+    "image": "https://media.forgecdn.net/attachments/1165/434/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/893/Bumbli%20Graphics%20-%20Default%20Low%20v1.4.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 139
+  },
+  {
+    "name": "GasMask",
+    "description": "Have you ever wanted the caves to be more complicated to explore and not everything was so easy? Well, with this addon the caves will now give you effects that will complicate your exploration",
+    "image": "https://media.forgecdn.net/attachments/1078/353/sin-tatulo-1.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/774/GasMask%20Addon%20BP%20V1.5.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 140
+  },
+  {
+    "name": "Blocklings",
+    "description": "This addon adds an incredible new entity in the form of Minecraft Bedrock minerals that you can tame to have as a pet. This addon is available for all versions from 1.20 onwards.",
+    "image": "https://media.forgecdn.net/attachments/972/909/blocklings.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/766/Blockyns%20Addon%20BH%20V1.9.1.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 141
+  },
+  {
+    "name": "Hammer Time 2D",
+    "description": "This addon is based on the Minecraft Java mod with the same name, adding hammers that cut 3x3, swords that damage areas, axes that break wood by breaking a block, and shovels that cut dirt 3x3, etc.",
+    "image": "https://media.forgecdn.net/attachments/876/675/hammertime_mcpedl-1.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/761/HammerTime%202D%20BH%20V1.9.5.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 142
+  },
+  {
+    "name": "Ghost Block + Camo Door",
+    "description": "Make sure to hide your valuables on a HIDDEN SECRET BASE with Ghost Block + Camouflage Door.",
+    "image": "https://media.forgecdn.net/attachments/1194/869/untitled275_20250520224820-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6550/563/Ghost%20Block%20%2b%20Camo%20Door.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 143
+  },
+  {
+    "name": "Spawn-Randomizer",
+    "description": "A Minecraft: Bedrock Edition script that randomizer the spawn location of a new player. Allowing administrator to easily spread out new players automatically.",
+    "image": "https://media.forgecdn.net/attachments/1193/417/1000320898-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/783/Spawn-Randomizer-V1.0.1%20(STABLE).mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 144
+  },
+  {
+    "name": "End's Delight Bedrock",
+    "description": "This addon is the End's Delight Mod unofficial port on bedrock edition and reproduced to the greatest extent possible.",
+    "image": "https://media.forgecdn.net/attachments/1152/799/qu1xp698c0i96gl-oon1-al-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/778/End%27sDelightV3.2.2-1.21.70%2b.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 145
+  },
+  {
+    "name": "Project Spark",
+    "description": "I wanted to a mod that adds machines and metals that could work on Education Edition but then I remembered I could code so I made this mod.",
+    "image": "https://media.forgecdn.net/attachments/1195/378/netherite_upgrade_smithing_template_je1_be1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/695/Project_eSpark_4%20(1).mcaddon",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 146
+  },
+  {
+    "name": "Flags Emoji",
+    "description": "This texture pack adds emoji of each country or region's flag and makes these emoji available for typing.",
+    "image": "https://media.forgecdn.net/attachments/1177/538/featured_image-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/587/flags_emoji_v1.1.1.mcpack",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 147
+  },
+  {
+    "name": "UtilityCraft",
+    "description": "UtilityCraft seeks to be an addonpack of our addons that improves the general Minecraft experience, adding a ton of new content, like machines, spawners, bonsais, cobble gens, tools, mob grinding, tanks and a lot more. Go try it out!",
+    "image": "https://media.forgecdn.net/attachments/1151/621/image_2025-04-08_001546387-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/345/UtilityCraft%20Ultimate%203.1.8%20BP.mcpack",
+    "supportedVersions": [
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 148
+  },
+  {
+    "name": "Mythical Biomes",
+    "description": "Mythical Biomes is an add-on that introduces new biomes to your world, creating a fantasy-like environment. It includes new mobs, features, and blocks.",
+    "image": "https://media.forgecdn.net/attachments/1137/9/20250325_130852_0001-ezgif-com-optimize-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6549/119/Mythical%20Biomes%20(v1.7.30).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 149
+  },
+  {
+    "name": "New Adventure Plus - Addon!",
+    "description": "This addon tries to update every part of the game. During your survival you will find new mobs, new food, new structures, new biomes.     The updates of this addon are based on vanilla concerts and fan and author's own ideas.",
+    "image": "https://media.forgecdn.net/attachments/1196/500/sovoct_icon1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/923/AdventurePlus.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 150
+  },
+  {
+    "name": "RealSource REALISTIC pack",
+    "description": "Complete realistic texture pack with support for RTX and VIBRANT VISUALS. Optimized for any Bedrock device. Available in LOW and HD versions.",
+    "image": "https://media.forgecdn.net/attachments/1152/268/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/823/RealSource_Realistic_VIBRANT%20VISUALS-1.2_LOW.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack",
+    "id": 151
+  },
+  {
+    "name": "Survival Starter House - Bedrock Edition",
+    "description": "New Maps Added! - Choose your survival starter house, built with nearby natural resources, survival-friendly with achievements on!",
+    "image": "https://media.forgecdn.net/attachments/1157/833/mcpedl-png.PNG",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/779/Map%2015%20-%20Igloo.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 152
+  },
+  {
+    "name": "Escape From The Prison: Unusual Worlds",
+    "description": "Discover the continuation of \"Escape From The Prison 5\", ally with your teammate and discover what's happening.",
+    "image": "https://media.forgecdn.net/attachments/1138/559/escape-from-the-prison-unusual-worlds-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/676/Escape%20From%20The%20Prison%20%c2%b7%20Unusual%20Worlds%20(v1.31)%20(Espa%c3%b1ol)%20-%20MCM%20Tuber.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 153
+  },
+  {
+    "name": "Bedrock Banhammer",
+    "description": "In Minecraft Bedrock, it's not possible to ban players. This addon makes it possible.",
+    "image": "https://media.forgecdn.net/attachments/1193/109/videocapture20250204212542_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/659/Banhammer.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 154
+  },
+  {
+    "name": "Vanilla Reforged",
+    "description": "Experience a new twist on the classic 16x16 textures within the deferred rendering pipeline",
+    "image": "https://media.forgecdn.net/attachments/1075/453/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/533/Vanilla%20Reforged%20V1.0.4.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.3",
+    "category": "Texture Pack",
+    "id": 155
+  },
+  {
+    "name": "Bedrock Energistics TH",
+    "description": "Bedrock Energistics Thai version",
+    "image": "https://media.forgecdn.net/attachments/1193/385/ajdxe9c.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/517/Bedrock%20Energistics%20TH.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 156
+  },
+  {
+    "name": "SMITHING TEMPLATES DESCRIPTIONS",
+    "description": "This file provides detailed, formatted descriptions for all Armor Trim and Netherite Upgrade smithing templates in Minecraft Bedrock Edition",
+    "image": "https://media.forgecdn.net/attachments/1194/677/chatgptimagemay20202504_00_57p-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/469/SMITHING_TEMPLATES.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 157
+  },
+  {
+    "name": "Advanced Storage Network TH",
+    "description": "Translate the original add-on into Thai",
+    "image": "https://media.forgecdn.net/attachments/1195/386/ajdxe9c.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/456/Advanced%20Storage%20Network%20TH.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 158
+  },
+  {
+    "name": "Blood on Emeralds",
+    "description": "Hire villagers to defend your village! Turn your villagers into fearsome warriors ready to protect your territory. Recruit them for emeralds, equip them with weapons and armor, and watch them evolve into true champions.",
+    "image": "https://media.forgecdn.net/attachments/1194/712/dfcgh-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/356/Blood%20on%20Emeralds.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 159
+  },
+  {
+    "name": "PROJECT STAR WARS BY B2STNED2TLK",
+    "description": "A fan made Star Wars mod.",
+    "image": "https://media.forgecdn.net/attachments/1194/98/updated-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/332/Star%20Wars%20By%20B2stned2tlk.mcaddon",
+    "supportedVersions": [
+      "1.21.70"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 160
+  },
+  {
+    "name": "Better Chat Ranks Addon",
+    "description": "Better Player Ranks Addon allows admins to customize player ranks and name colors in Minecraft, enhancing chat management and display in the game.",
+    "image": "https://media.forgecdn.net/attachments/930/243/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/173/Better%20Chat%20Ranks%20Addon%20(1.21.80)%20v1.6.0.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 161
+  },
+  {
+    "name": "Hardcore with OP Gears",
+    "description": "Experience hardcore survival with powerful starter gear! Begin with enchanted weapons and armor to help you survive intense challenges from the start. Perfect for players who want a thrilling but fair hardcore adventure with Risk terrain and dangers.",
+    "image": "https://media.forgecdn.net/attachments/1194/54/img_20250520_015838-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/133/Hardcore%20%2b%20OP%20Gears.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 162
+  },
+  {
+    "name": "Yet Another Vein Miner",
+    "description": "This addon allows you to break entire ore veins",
+    "image": "https://media.forgecdn.net/attachments/1167/433/vein-1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6548/86/Vein%20Miner%201.1.9.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 163
+  },
+  {
+    "name": "Ducks Update",
+    "description": "Added ducks",
+    "image": "https://media.forgecdn.net/attachments/1194/33/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/908/Ducks%20Update%200.0.4.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 164
+  },
+  {
+    "name": "More Camera Perspectives",
+    "description": "This pack adds bunch of new cool & useful camera perspectives!",
+    "image": "https://media.forgecdn.net/attachments/1193/994/coverth-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/904/MoreCamPers_v3.2.0.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 165
+  },
+  {
+    "name": "[Realm compatible]Nasa's cat armor",
+    "description": "New color added! Nasa's cat armor brings Colorful cat armor variants to your worlds crafted with iron ingots and dye repaired with iron ingots.",
+    "image": "https://media.forgecdn.net/attachments/1163/786/cat-armour-cover-with-title-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/822/Nasas%20cat%20armor%2bcolours%20%5b1.4.2%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 166
+  },
+  {
+    "name": "Rise of The Wyverns",
+    "description": "This addon adds a wide variety of wyverns that will appear in your survival world, these are hostile and you can tame them when they are babies, they have 3 types of attacks that will be explained later",
+    "image": "https://media.forgecdn.net/attachments/899/146/rise_of_the_wyverns.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/715/Rise%20of%20the%20Wyverns%20BH%20V1.6.1.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 167
+  },
+  {
+    "name": "Expansive Ores",
+    "description": "This addon aims to add new ores, armors, tools, weapons, utility items, tables with custom ui, new shields, new enchantments, effect rings all this will be added to your minecraft bedrock",
+    "image": "https://media.forgecdn.net/attachments/877/619/20230205_201202.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/709/ExpansiveOres%5bRP%5d%20V2.3.2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 168
+  },
+  {
+    "name": "FIND THE BUTTON PLUS",
+    "description": "On this map you will have to look for the button to go to the next level",
+    "image": "https://media.forgecdn.net/attachments/1193/966/imagen_2025-05-19_181617905-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/705/FIND%20THE%20BUTTON.mcworld",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 169
+  },
+  {
+    "name": "Survival Modern House #18 (Achievements On)",
+    "description": "Welcome to my 18th house in the Survival Series! 🏠✨",
+    "image": "https://media.forgecdn.net/attachments/1193/908/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/481/JST%20House%2018.mcworld",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 170
+  },
+  {
+    "name": "Night Vision Plus",
+    "description": "Do you want to see in the dark without potions? With this texture pack you can do it",
+    "image": "https://media.forgecdn.net/attachments/1154/166/texture-pack-logo-52-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/385/Nigth%20Vision%20Plus.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 171
+  },
+  {
+    "name": "Lag Clear 3.9 - Item Remove Timer For Modded With Filter",
+    "description": "Sometimes, items that are dropped don't disappear after 5 minutes. This causes the game to slow down because of all the extra stuff. This cool mod is made to solve that problem.",
+    "image": "https://media.forgecdn.net/attachments/1154/796/mcpedl.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/328/LClear3.9.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 172
+  },
+  {
+    "name": "Free Look Resource Pack | Dynamic Third Person Camera",
+    "description": "This resource pack enables a dynamic third person perspective which allows you to look more freely around your player.",
+    "image": "https://media.forgecdn.net/attachments/969/74/free-look-thumbnail.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6547/241/Free%20Look%20Texture%20Pack%20v1.5.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 173
+  },
+  {
+    "name": "The Dungeons",
+    "description": "There is a Dungeons that is appear in minecraft world, inside the Dungeons there's so many monster and bos, also the Dungeons have so much loots too. The Dungeons can fall's down and reset to new structure. Explore to get Dungeons experience!.",
+    "image": "https://media.forgecdn.net/attachments/1192/877/picsart_25-05-18_22-50-59-431-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/985/Thedungeons.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 174
+  },
+  {
+    "name": "Construction Wan(d)'s",
+    "description": "A powerful building tool: build rapid, smart and with accuracy!",
+    "image": "https://media.forgecdn.net/attachments/1179/586/wands_ka-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/923/Wan%27s%20Construction%20Wand%201.1.4.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 175
+  },
+  {
+    "name": "LAVA WORLD",
+    "description": "Lava World – The Nether Edition is a custom flat world made entirely of lava with a Nether theme—no bedrock, just lava and void! Perfect for creating unique mini-games like Skyblock, Parkour, Oneblock, or Bedwars in a fiery, high-risk environment.",
+    "image": "https://media.forgecdn.net/attachments/1193/764/img_20250519_194223-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/853/LAVA%20WORLD515.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 176
+  },
+  {
+    "name": "[Realm compatible]All Enchantments Menu economy and shops",
+    "description": "Open the Menu: type !enchant in the chat to open the enchantment menu. Now with Admin options use tag Admin to see them.",
+    "image": "https://media.forgecdn.net/attachments/1171/714/mcpedll-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/741/%c2%a7l%c2%a72%e2%80%a2%20All%20Enchantments%20menu%c2%a74%5b1.5.1%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 177
+  },
+  {
+    "name": "New Bows Overhaul",
+    "description": "Transform your Minecraft Bedrock world with New Bows Overhaul! This powerhouse mod adds 6 elemental bows, 6 specialized arrows, and 3 fearsome spider mobs—Frozen Spiders, Fire Spiders, and Ender Spiders—that drop webbing for crafting",
+    "image": "https://media.forgecdn.net/attachments/1193/683/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/728/NewBows_RS.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 178
+  },
+  {
+    "name": "The Flash Mod",
+    "description": "Become the Flash in Minecraft!",
+    "image": "https://media.forgecdn.net/attachments/1151/794/6-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/561/Flash%20Mod%20New%20Heroes%20-%201.3.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 179
+  },
+  {
+    "name": "Teleport Stone 2.9- Globally Teleport+Multiplayer+Modded Supporting",
+    "description": "The Teleport Stone Addon lets players make stones to set points and teleport around their Minecraft world quickly.",
+    "image": "https://media.forgecdn.net/attachments/1193/449/20250519_133835.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/304/TStone2.9.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 180
+  },
+  {
+    "name": "Gravestones FWS",
+    "description": "Never lose items on death again! Let your Gravestone hold them for you until you return!",
+    "image": "https://media.forgecdn.net/attachments/1141/868/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/224/Gravestones%20V0.3.1%20(FRESH)%20%5bRP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 181
+  },
+  {
+    "name": "Hardcore Starter House - Bedrock Edition",
+    "description": "Choose your starter house, built with nearby natural resources, survival-friendly with achievements on!",
+    "image": "https://media.forgecdn.net/attachments/1154/487/mcpedl-png.PNG",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/221/Map%2015%20-%20Igloo.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 182
+  },
+  {
+    "name": "Sonic Shoes FWS",
+    "description": "Run around like Sonic the Hedgehog and his Friends with your very own Sonic and Friends Shoes!",
+    "image": "https://media.forgecdn.net/attachments/1151/793/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/35/Sonic%20Shoes%20V0.4.1%20(BP).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 183
+  },
+  {
+    "name": "More Fruit (Apples, Oranges, Bananas and More!)",
+    "description": "Apples are great! Oranges, Pears, Bananas and more are better!",
+    "image": "https://media.forgecdn.net/attachments/1141/749/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/28/More%20Fruit%20V0.5.3%20%5bRP%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 184
+  },
+  {
+    "name": "Numberblocks",
+    "description": "Are you need Numberblocks in Minecraft? You can press and hold the screen or right-click while holding morph item to morph Numberblocks characters in Minecraft, and play Numberblocks roleplay in Minecraft.",
+    "image": "https://media.forgecdn.net/attachments/1115/259/screenshot_20240903_155454-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/23/Numberblocks%201.5.8.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 185
+  },
+  {
+    "name": "Napoleonic Bedrock",
+    "description": "Adds Napoleonic gear to Bedrock",
+    "image": "https://media.forgecdn.net/attachments/1193/664/logo_nap-jpg-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6546/0/Napoleonic_Bedrock_Soldiers_Version1.mcaddon",
+    "supportedVersions": [
+      "1.21.70"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 186
+  },
+  {
+    "name": "Nico's Mobs",
+    "description": "This add-on introduces new mobs that spawn naturally in your world. Each mob has unique abilities and distinct loot. Some can be tamed, while others pose a serious threat.",
+    "image": "https://media.forgecdn.net/attachments/1137/101/20250325_152723_0001-ezgif-com-optimize-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/603/Nicos%20Mobs%20(v1.9.20).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 187
+  },
+  {
+    "name": "Dew's Tree Capitator",
+    "description": "Do you want a way to chop down a tree much more easily? Then this addon is just for you! This addon helps you chop down different trees much more faster.",
+    "image": "https://media.forgecdn.net/attachments/884/540/dewca2.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/419/Dew%27s%20Tree%20Capitator%20V1.21%20V2%20STABLE.mcpack",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 188
+  },
+  {
+    "name": "DownYouGo!",
+    "description": "Players now get injured when their life is below 25% and other players can attempt to rescue them!",
+    "image": "https://media.forgecdn.net/attachments/1082/133/mcpedl.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/375/DownYouGo_v2.2.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 189
+  },
+  {
+    "name": "RGB XP Bar",
+    "description": "Does the current xp bar look very boring? And you want to make it more interesting? You may need this pack!Change the old boring xp bar becomes colorful and also with animation",
+    "image": "https://media.forgecdn.net/attachments/1187/129/tak-berjudul179_20241126145435-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/275/RGBXpBar%20v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 190
+  },
+  {
+    "name": "Infernal Tempest: A Wildfire Addon",
+    "description": "Adds mob-vote loser Mob D, the Wildfire! Adds a new structure, and a new ore with respective gear.",
+    "image": "https://media.forgecdn.net/attachments/1193/212/mcpedl-infernal-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/222/%5b1.0.0%5d%20Infernal%20Tempest%20by%20ForeverAPigman%20and%20TheEntityNul.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 191
+  },
+  {
+    "name": "Ender's Epic Escape",
+    "description": "This is a multi-step, lore-based, escape room! Do you think you can beat it!?",
+    "image": "https://media.forgecdn.net/attachments/1168/398/enders-escape-thumbnail-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/215/Ender%27s%20Epic%20Escape%20V%201.3.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.2",
+    "category": "Add-on",
+    "id": 192
+  },
+  {
+    "name": "Ender's Minigame Madness",
+    "description": "This is a constantly updating multiplayer minigame map that is awesome to play when you're bored! (WEEKLY UPDATES!!)",
+    "image": "https://media.forgecdn.net/attachments/1087/122/vidiq_thumbnail_5-1-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6545/54/Ender%27s%20Minigame%20Madness%20V%205.3.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.5",
+    "category": "Add-on",
+    "id": 193
+  },
+  {
+    "name": "RenderFo Clearlag",
+    "description": "add-on script clear lag for minecraft bedrock",
+    "image": "https://media.forgecdn.net/attachments/1196/315/mcpedl.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/958/RenderFO.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 194
+  },
+  {
+    "name": "Warden's SkyGen Template",
+    "description": "This SkyGen is custom made just for you! I will be updating this map frequently and adding new features based on your feedback!",
+    "image": "https://media.forgecdn.net/attachments/1195/326/kjsdahfkjdfgfhndsklgjdfkgj-2-1.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/755/Warden%27s%20SkyGen%20Template.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 195
+  },
+  {
+    "name": "Swords+",
+    "description": "Improved sword textures for casual play or combat.",
+    "image": "https://media.forgecdn.net/attachments/1193/74/9995b26c-4b95-45fe-b915-d4140c7610b9-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/655/shortswordsplusV5.mcpack",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 196
+  },
+  {
+    "name": "Another Dynamic Light Add-on",
+    "description": "Gives your world a dynamic light so you have better vision in dark places.",
+    "image": "https://media.forgecdn.net/attachments/1193/156/1747601880061-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/595/AnotherDynamicLight%201.0.7%20%5bBp%5d.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 197
+  },
+  {
+    "name": "Survival eXpanded: Hydration",
+    "description": "This addon introduces a Thirst Bar to the game, enhancing the vanilla experience and adding a bit more challenge!",
+    "image": "https://media.forgecdn.net/attachments/1193/97/xhydration-logo-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/422/xHydration-%5bv1.4%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 198
+  },
+  {
+    "name": "VISIBLE ORES PLUS",
+    "description": "This texture pack will help you see the minerals more easily.",
+    "image": "https://media.forgecdn.net/attachments/1153/221/imagen_2025-04-09_213239629-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6544/348/VISIBLE%20ORES%20PLUS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 199
+  },
+  {
+    "name": "Outlined Ores",
+    "description": "This texture pack makes mining easier and more fun by highlighting ores",
+    "image": "https://media.forgecdn.net/attachments/1177/724/mcpe-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/972/Outlined%20Ores%201.0.8.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 200
+  },
+  {
+    "name": "Gravel Miner",
+    "description": "This addon allows you to break huge amounts of gravel quickly",
+    "image": "https://media.forgecdn.net/attachments/1162/180/asdfg-2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/915/Gravel%20Miner%201.1.4.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 201
+  },
+  {
+    "name": "System Wyverns",
+    "description": "This addon adds a wide variety of wyverns that will appear in your survival world, these are hostile and you can tame them when they are babies, they have 3 types of attacks that will be explained later",
+    "image": "https://media.forgecdn.net/attachments/973/570/syswyvern.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/808/System_Wyverns%20%5bBP%5d%20V2.8.2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 202
+  },
+  {
+    "name": "System Dynamic Light",
+    "description": "Have you ever wanted to light up caves just by having torches in your hands? With this addon you can illuminate either with flashlights, glowstone, magma, torches and second hand torches, and many other items that will help you illuminate the caves",
+    "image": "https://media.forgecdn.net/attachments/850/132/dynamic.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/797/System%20Dynamic%20Lights%20BH%20V2.7.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 203
+  },
+  {
+    "name": "🔥GUNS 3D Mod and Addon Pack Download – SIMPLE ARSENAL ADD-ON!!🔥",
+    "description": "A 3D GUNS Mod with HEADSHOTS, smooth animations, 1200 RPM firing rate weapons, and MUCH MORE!! Download now and get a variety of guns and weapons in your Minecraft world!!!",
+    "image": "https://media.forgecdn.net/attachments/1175/849/full-gif-v0-5-1-optimized-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/736/Simple%20Arsenal%20Behavior%20Pack%20v0.6%20%5bBase%20Pack%5d.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 204
+  },
+  {
+    "name": "[1.1.3] Renewed! Killer mincer (back to life)",
+    "description": "If you like Villagers mincer. You like this addon too. Being compatible with rtx, renderdragon and vibrant visuals!",
+    "image": "https://media.forgecdn.net/attachments/1191/405/1000001606-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/627/Killer%20mincer%20%5b1.1.3%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 205
+  },
+  {
+    "name": "Vanity - Core",
+    "description": "A Vanity \"core\" addon that is needed for other Vanity Addons to work.",
+    "image": "https://media.forgecdn.net/attachments/1186/870/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/537/Vanity%20-%20Core%20BP.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 206
+  },
+  {
+    "name": "Doink!",
+    "description": "A Mod that lets you tame golems, Ride Ravagers, and Aquire rabid wolves",
+    "image": "https://media.forgecdn.net/attachments/1188/770/1000065494-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/339/Doink!%201.2.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 207
+  },
+  {
+    "name": "Chat Ranks addon",
+    "description": "Adds chat ranks, name and chat colors based on player tags. Prevents muted players from chatting and limits spam for non-staff. Messages with a set prefix are ignored to avoid conflicts with other addons. Enhances chat customization and moderation.",
+    "image": "https://media.forgecdn.net/attachments/1195/657/chatranksmain-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/182/ChatRanks_by_luibara2_v-1_21_81.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 208
+  },
+  {
+    "name": "Gigachad PE",
+    "description": "Do you wanna meet Gigachad? But in Minecraft? Well, this Addon is for you because this addon Added Gigachad!If you didn't know Gigachad, Gigachad is a famous meme.This Addon also added an OP item!",
+    "image": "https://media.forgecdn.net/attachments/1188/942/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/108/Gigachad%20PE%20by%20Flappyguy.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 209
+  },
+  {
+    "name": "Nasa's more food mobs and craftable potions",
+    "description": "Nasa's more food Adds  40+ new food items, new mobs and various other changes, includes craftable potions",
+    "image": "https://media.forgecdn.net/attachments/1146/263/nasas-more-food-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/91/%c2%a7aNasa%e2%80%99s%20More%20food%c2%a73%5b2.0.0%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 210
+  },
+  {
+    "name": "Skills Leveling 1.4 - Added 40+ New Custom Swords",
+    "description": "This addon significantly increases game difficulty by restricting access to vanilla tools, weapons, and armor until players develop their skills. This forces players to focus on progression rather than instantly using powerful gear.",
+    "image": "https://media.forgecdn.net/attachments/1192/568/20250518_165011.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/45/SLevel1.4.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 211
+  },
+  {
+    "name": "Yummysheep Shader for RTX",
+    "description": "Extended Yummysheep shader for Minecraft Bedrock RTX which is an RTX-optimized version",
+    "image": "https://media.forgecdn.net/attachments/1192/594/yummysheep-shader-for-rtx_2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6543/11/YummySheep_Shader_RTX.mcpack",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 212
+  },
+  {
+    "name": "Vanity - Helios",
+    "description": "A Vanity Pack to turn your tools into a Helios style. Requires Vanity - Core",
+    "image": "https://media.forgecdn.net/attachments/1192/592/vanity-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/991/Vanity%20-%20Helios%20RP.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 213
+  },
+  {
+    "name": "Vanity - Druid",
+    "description": "A Vanity Pack to turn your tools into a Druid style. Requires Vanity - Core",
+    "image": "https://media.forgecdn.net/attachments/1192/576/vanity-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/941/Vanity%20-%20Druid%20RP.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 214
+  },
+  {
+    "name": "BedrockTPA",
+    "description": "A Minecraft: Bedrock Edition add-on inspired by Simple-TPA that allows requesting teleportation to specified player or even teleport back to your recent location.",
+    "image": "https://media.forgecdn.net/attachments/1192/771/1000320759-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/916/BedrockTPA-V1.0.0%20(STABLE).mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 215
+  },
+  {
+    "name": "Forbidden City Preview [old]",
+    "description": "Preview of the project \"MY DYNASTY THE EMPEROR RETURN\".",
+    "image": "https://media.forgecdn.net/attachments/1192/921/mcpedl_logo-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/839/Forbidden%20City%20Preview%20%5bold%5d.mcworld",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 216
+  },
+  {
+    "name": "Biomes & Beyond",
+    "description": "A world expansion add-on that adds new biomes, blocks, mobs, & more!",
+    "image": "https://media.forgecdn.net/attachments/1115/486/babthumbmcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/765/Biomes%20%20Beyond%20%5bv0.8.20-beta%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 217
+  },
+  {
+    "name": "Vanity - Ancient",
+    "description": "A Vanity Pack to turn your tools into a Ancient style. Requires Vanity - Core",
+    "image": "https://media.forgecdn.net/attachments/1191/820/vanity-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/650/Vanity%20-%20Ancient%20RP.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 218
+  },
+  {
+    "name": "Vegetarian Challenge",
+    "description": "Whatever you do... Don't eat meat! This challenge is perfect for all the vegetarians who can't stand meat. Can you resist the temptation? Good luck!",
+    "image": "https://media.forgecdn.net/attachments/1192/355/vegetarian-minecraft-1-webp.webp",
+    "downloadUrl": "https://edge.forgecdn.net/files/6542/173/VegetarianMinecraft.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 219
+  },
+  {
+    "name": "Survival Modern House #17 (Achievements On)",
+    "description": "Welcome to my 17th house in the Survival Series! 🏠✨",
+    "image": "https://media.forgecdn.net/attachments/1192/229/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/908/JST%20House%2017.mcworld",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 220
+  },
+  {
+    "name": "Ruins Addon (Structure Spawning System)",
+    "description": "More ruins, abandoned structures, dungeons, and traps are waiting for you to explore",
+    "image": "https://media.forgecdn.net/attachments/1161/698/1000049302-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/857/Ruins_Addon_v1.3.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 221
+  },
+  {
+    "name": "Nico's Cave Expansion",
+    "description": "This add-on enhances your underground exploration by introducing a variety of new caves. It also adds new mobs, blocks, plants, food, ores, and equipment.",
+    "image": "https://media.forgecdn.net/attachments/1137/26/20250325_134239_0001-ezgif-com-optimize-1-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/687/Nicos%20Cave%20Expansion%20(v1.6.71).mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 222
+  },
+  {
+    "name": "Biological Infestation",
+    "description": "Biological Infestation is an addon in development that transforms your world into a nightmare terrain",
+    "image": "https://media.forgecdn.net/attachments/1158/55/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/307/Biological_Infestation_v0.3.1_Res.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 223
+  },
+  {
+    "name": "Mob to Waifu",
+    "description": "What if every mob encounter was as charming as it was dangerous?",
+    "image": "https://media.forgecdn.net/attachments/1187/705/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/296/Mob_to_Waifu_v2.2_Beh.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 224
+  },
+  {
+    "name": "A Bugs Life...",
+    "description": "A little addon with bugs... Literally bugs",
+    "image": "https://media.forgecdn.net/attachments/1192/160/screenshot_20250517_224837_com.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/284/Bugs%20Life%20Addon%20V1.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 225
+  },
+  {
+    "name": "The Everything Update Add-on Pack",
+    "description": "The Everything Update aims to update... Everything? the End, The Nether, Caves, Snow biomes, Nature, Deserts you name it, all has been updated",
+    "image": "https://media.forgecdn.net/attachments/1192/101/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/273/The_Everything_Update_Hotfix.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 226
+  },
+  {
+    "name": "Abyssal Ascent v2.0 (End Update) Add-on",
+    "description": "Abyssal Ascent is aimed to be the Ultimate End Update add-on, adding tons of content, the addons goal is to make you reflect on everything that youve seen in your journey from start to the End",
+    "image": "https://media.forgecdn.net/attachments/1159/841/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/261/Abyssal_Ascent_v2.0_bug_fix_update.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 227
+  },
+  {
+    "name": "Newb x Unwind",
+    "description": "An aesthetic and chill vibes shaders for Minecraft bedrock with calm tone color, cozy night vibes, better weather particle and support for all version 1.21.21 above.",
+    "image": "https://media.forgecdn.net/attachments/1189/922/1000082834-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/175/Newb%20x%20Unwind%20v4%20-%20Android%20-%20(No%20Fake%20Depth).mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 228
+  },
+  {
+    "name": "Ruspe Shine Engine Edition",
+    "description": "Texture pack for minecraft bedrock, this pack enhances the vibrant visuals giving the sunsets beautiful and gorgeous also adds animations on the leaves, this pack is not official for Ruspe shaders",
+    "image": "https://media.forgecdn.net/attachments/1195/8/inshot_20250517_100329934.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/92/RUSPE%20SHIN%20ENGINE%20EDITION.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 229
+  },
+  {
+    "name": "Squid Game - Minecraft Bedrock Edition",
+    "description": "The #1 Squid Game Map for Minecraft Bedrock Edition! Experience game mechanics that closely mirror the Squid Game from the show",
+    "image": "https://media.forgecdn.net/attachments/1158/391/slide0-png.PNG",
+    "downloadUrl": "https://edge.forgecdn.net/files/6541/10/Squid%20Game%20by%20Daniye%20v2.1.8.mcworld",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 230
+  },
+  {
+    "name": "Vein-Miner + Tree-Capitator 1.21.80!",
+    "description": "A highly configurable add-on that adds Vein-Miner and Tree-Capitator!",
+    "image": "https://media.forgecdn.net/attachments/1192/862/vmtc-logo-mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6540/970/VeinMiner%2bTreeCapitator%20v1.21.80%20BP.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 231
+  },
+  {
+    "name": "OtherWorldly",
+    "description": "OtherWorldly introduces new systems, items, mobs, structures, bosses, and revamped difficulty.",
+    "image": "https://media.forgecdn.net/attachments/1069/760/otherworldly-image.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6540/464/OtherWorldly(1.5.0.2).mcaddon",
+    "supportedVersions": [
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 232
+  },
+  {
+    "name": "PROJECT ONYX | Universal Tower Defence Addon",
+    "description": "A highly customizable tower defence addon that can be used anywhere. Take on unique beings from other dimensions for sweet loot!",
+    "image": "https://media.forgecdn.net/attachments/1191/846/key-art_corrected-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6540/456/Project%20Onyx%20v2.0.1.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 233
+  },
+  {
+    "name": "Enchantment Descriptions Bedrock",
+    "description": "This resource pack enhances Minecraft’s enchantment system by providing detailed descriptions of every enchantment directly in-game. Whether you're new or experienced, it helps you make better choices while enchanting your gear.",
+    "image": "https://media.forgecdn.net/attachments/1191/656/chatgpt-image-may-17-2025-08_21_29-pm-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6540/150/Enchantment_Bedrock.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 234
+  },
+  {
+    "name": "Dense Ores: Above the Bedrock!",
+    "description": "A Bedrock Version of Dense Ores!",
+    "image": "https://media.forgecdn.net/attachments/1191/608/1000069790-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6540/34/Dense%20Ores%20-%20Above%20The%20Bedrock.mcaddon",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 235
+  },
+  {
+    "name": "Skill Levels and Prestige System",
+    "description": "New skill fishing!! Take your Minecraft Bedrock gameplay to the next level with the Ultimate Skills & Prestige System! This addon introduces a robust, multi-skill leveling system that rewards players for engaging in various activities",
+    "image": "https://media.forgecdn.net/attachments/1169/438/new-main-cover-skills-levels-and-prestige-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/598/%c2%a7a%e2%80%a2%20Skill%20and%20prestige%20system%20%e2%80%a2%c2%a72%5b2.4.5%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 236
+  },
+  {
+    "name": "Animals Farm with Advance item Auto sorter",
+    "description": "This map introduce the advance full automatic animals farm + item sorter",
+    "image": "https://media.forgecdn.net/attachments/1192/31/screenshot_2025-05-17-20-52-12.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/308/Animals_Farm_Auto.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 237
+  },
+  {
+    "name": "Daredevil Born Again",
+    "description": "This Add-on adds Daredevil mythos to your Minecraft world from heroes and anti heroes like Daredevil, Punisher, Elektra and villains like Kingpin, Muse and Bullseye",
+    "image": "https://media.forgecdn.net/attachments/1191/490/screenshot_2025_0516_185934-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/295/%c2%a7cDaredevil_Born%20Again%20Minecraft%20Add-on%20_1744708054672.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 238
+  },
+  {
+    "name": "Explosive Blocks",
+    "description": "This addon was created in order to be able to troll your friends and have fun with them.",
+    "image": "https://media.forgecdn.net/attachments/1191/443/explosive-blocks-720x340-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/121/Explosive%20Blocks%20v1.2.6.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.3",
+    "category": "Add-on",
+    "id": 239
+  },
+  {
+    "name": "SKY - La Nature Fragment",
+    "description": "Galaxy? Planet? Realistic clouds? A black hole?? You'll find everything you need in this La Nature Fragment, by Carrot!",
+    "image": "https://media.forgecdn.net/attachments/1154/655/packicon-copie-2-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/95/SKY-La-Nature-Fragment-1.0.1.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 240
+  },
+  {
+    "name": "Minecraft Essentials DE v.2.2",
+    "description": "Minecraft Essentials von TeamCyreksDev",
+    "image": "https://media.forgecdn.net/attachments/1181/525/mc-essentials-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/64/Minecraft%20Essentials%20DE%20v2.2%20%5b1.21.80x%5d.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 241
+  },
+  {
+    "name": "VIETNAMESE.VN.VIETNAM",
+    "description": "With Vietnamese language pack will help you have better gaming experience",
+    "image": "https://media.forgecdn.net/attachments/1191/278/picsart0526073945_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6539/49/Vietnamese%20for%20Minecraft%20v1.0.0.mcpack",
+    "supportedVersions": [
+      "1.21.81"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 242
+  },
+  {
+    "name": "Luncheon Meat 's Delight Bedrock (Unofficial)",
+    "description": "This add-on is an unofficial port of the Luncheon Meat 's Delight Mod to Bedrock Edition, carefully copied to match the original version as closely as possible. This is a simple Mod to add Luncheon Meat to your world",
+    "image": "https://media.forgecdn.net/attachments/1178/658/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/874/Luncheon%20Meat%20%27s%20Delight%20V3.2.0%201.21.70%2b.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 243
+  },
+  {
+    "name": "Memory Guess: What did you see?",
+    "description": "View the build for 15 seconds then answer questions based on what you saw",
+    "image": "https://media.forgecdn.net/attachments/1191/281/1000018057-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/626/Memory%20Guess%20-%20What%20did%20you%20see.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 244
+  },
+  {
+    "name": "Soul Catchers || Modded Supporting || Mana And Magic Update",
+    "description": "The Mana and Magic addon introduces a mana system to Minecraft Bedrock Edition, allowing players to use magical abilities. It adds a Mana Bar below the hunger bar and provides a Fly Wand that enables controlled flight.",
+    "image": "https://media.forgecdn.net/attachments/1191/250/20250517_144107.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/570/ManaAndMagic1.1.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 245
+  },
+  {
+    "name": "Eating Animation",
+    "description": "Bring your food to life with the Eating Animation Resource Pack!",
+    "image": "https://media.forgecdn.net/attachments/1181/53/1000039764-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/560/Ashiatrix%27s%20Eating%20Animation.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 246
+  },
+  {
+    "name": "X-Ray by Reisho",
+    "description": "X-Ray Ultimate – Texture Pack for Minecraft Bedrock   View through the blocks! Optimized X-Ray, which does not require mods and works on any devices (Android, iOS, Windows 10/11, consoles).",
+    "image": "https://media.forgecdn.net/attachments/1187/117/photo_2025-05-12_16-48-38-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/484/X-Ray%20by%20Reisho4.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 247
+  },
+  {
+    "name": "Brainrot Addon",
+    "description": "Adds Brainrot creatures to Minecraft, bringing the viral meme to life! Encounter bizarre, chaotic mobs inspired by internet humor. Perfect for meme lovers and chaotic survival worlds. Brace yourself for absurdity and unexpected fun!",
+    "image": "https://media.forgecdn.net/attachments/1192/95/thumbnail-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/428/Brainrot%20Animals%20V2.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 248
+  },
+  {
+    "name": "Solace Visuals",
+    "description": "Solace Visuals is a Vibrant Visuals pack made to transform your Minecraft experience with cozy, warm lighting, and a stunning stylized aesthetic.",
+    "image": "https://media.forgecdn.net/attachments/1188/836/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6538/363/solace-visuals.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 249
+  },
+  {
+    "name": "Origins Merged",
+    "description": "Origins allows you to pick a races at the start of your new world, changing your gameplay making it unique with every origin",
+    "image": "https://media.forgecdn.net/attachments/1181/226/originsmodbedrockeditionaddon1520x245_1-520x245.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/930/Origins%201.4.5.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 250
+  },
+  {
+    "name": "Old Netherite Upgrade",
+    "description": "This add-on returns old crafting to upgrade diamond armor and tools to netherite  Returns easy crafting of netherite items!  Brings simple and efficient crafting back to netherite items!",
+    "image": "https://media.forgecdn.net/attachments/1191/33/oldnetheriteupgrade_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/887/OldNetheriteUpgrade.zip.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 251
+  },
+  {
+    "name": "Frozen Tears (Snow Update) Add-on",
+    "description": "Frozen Tears aims to add ambience and tons of new ice themed items, mobs and structures to your world",
+    "image": "https://media.forgecdn.net/attachments/1191/912/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/413/Frozen_Tears_v1.1.5.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 252
+  },
+  {
+    "name": "Disastrous Dunes (Desert/Mesa Update) Add-on",
+    "description": "Disastrous Dunes aims to completely overhaul the Desert and Mesa biomes with brand new plants, items, blocks, ores and cave systems",
+    "image": "https://media.forgecdn.net/attachments/1161/307/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/409/Disastrous_Dunes_v1.1.2.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 253
+  },
+  {
+    "name": "Vibrant Ore Generators Add-on",
+    "description": "This addon adds ore generators with cool effects, nothing else to really say Lol",
+    "image": "https://media.forgecdn.net/attachments/1191/510/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/399/Vibrant_Ore_Generators_Fast_spawnrates.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 254
+  },
+  {
+    "name": "Coins And Money",
+    "description": "his mod adds new currencies for trading, such as gold, silver and bills, and you can use them however you want, such as for roleplay, to trade with friends, whatever you want.",
+    "image": "https://media.forgecdn.net/attachments/1124/50/imagen_2025-03-12_163401712-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/395/coins_andmoney-1.0.0-addon-1.21.x-craftcoins.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 255
+  },
+  {
+    "name": "Axolotl Ears N Tails!",
+    "description": "Welcome to Ears N Tails! This mod adds armors to the game that have animal traits such as wolves, foxes and cats. They are complete with animations and crafting recipes! This addon has 7 colors: Pink, wild/brown, gold, cyan, blue, green, and purple.",
+    "image": "https://media.forgecdn.net/attachments/1189/452/mcpedl-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/392/Axolotl%20Ears%20N%20Tails.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 256
+  },
+  {
+    "name": "Cat Ears n Tails!",
+    "description": "Welcome to Ears n tails! Ears n tails adds animal cosmetics to your world  to add a touch of roleplay!",
+    "image": "https://media.forgecdn.net/attachments/1183/981/img_2885-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/388/Cat%20Ears%20N%20Tails.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 257
+  },
+  {
+    "name": "PVP CROSSHAIR PRO",
+    "description": "PVP CROSSHAIR FOR MINECRAFT PVP",
+    "image": "https://media.forgecdn.net/attachments/1190/939/texture-pack-logo-87-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/362/PVP%20CROSSHAIR%20PRO.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 258
+  },
+  {
+    "name": "Time Control",
+    "description": "Did you want to remove the rain or dawn the day without having a bed? This addon was made with that in mind! Now you can use the diamond clock to change the time and the redstone clock to change the weather",
+    "image": "https://media.forgecdn.net/attachments/1193/193/1747435137573-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/348/Time%20control.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 259
+  },
+  {
+    "name": "Invisible Touch Buttons v1.1.0",
+    "description": "Makes touch and menu buttons invisible for better viewing for mobile gamers.",
+    "image": "https://media.forgecdn.net/attachments/1186/94/1000614193-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6537/134/Invisible%20Touch%20Buttons%20v1.1.0.mcpack",
+    "supportedVersions": [
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 260
+  },
+  {
+    "name": "Glimmering Armor Trims V2",
+    "description": "Makes your trimmed armors shine in the dark.",
+    "image": "https://media.forgecdn.net/attachments/1189/62/untitled3720230712161722_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/645/GlimmeringArmorTrimsV2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 261
+  },
+  {
+    "name": "Newb Complementary",
+    "description": "A new update to Newb Complementary has arrived, now much more similar to the Minecraft Java Complementary Shaders they're inspired by. This new edition has features and functions never before seen in previous and existing shaders",
+    "image": "https://media.forgecdn.net/attachments/1162/215/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/418/Newb%20Complementary%20Low%20-%20Windows.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 262
+  },
+  {
+    "name": "Simple Dynamic Lighting (Dynamic Lights) Lighting Entities",
+    "description": "Simple Dynamic Lighting is an optimized addon that adds light sources when the player holds an item that normally emits light.",
+    "image": "https://media.forgecdn.net/attachments/1172/893/simple_dynamic_lighting_thumbnail-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/414/Simple%20Dynamic%20Lighting%201-4-0.mcaddon",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 263
+  },
+  {
+    "name": "Newb X Dragon",
+    "description": "Now Compatible with 1.21.80. The Newb X Dragon is back with many new features, functions and qualities.",
+    "image": "https://media.forgecdn.net/attachments/1162/177/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/406/Newb%20X%20Dragon%20Low%20-%20iOS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 264
+  },
+  {
+    "name": "Herobrine Totem",
+    "description": "replaces the classic Totem of Immortality with a custom version of the legendary Herobrine skin. Survive in style and strike fear into your enemies!",
+    "image": "https://media.forgecdn.net/attachments/1194/451/totem-herobrine-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/164/Herobrine%20Totem.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21",
+      "1.21.41"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 265
+  },
+  {
+    "name": "Newb X Dawn",
+    "description": "There is a new update of newb X RTX with new features and compatible with the latest version which is the 1.21.80.25+",
+    "image": "https://media.forgecdn.net/attachments/1162/212/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/143/Newb%20X%20Dawn%20Low%20-%20iOS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 266
+  },
+  {
+    "name": "Newb X Ale Renewed Patch",
+    "description": "Now compatible whit Minecraft 1.21.80.25+. A new update of the Newb x Ale now replicating the ESTN SHADER",
+    "image": "https://media.forgecdn.net/attachments/1164/228/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6536/123/Newb%20X%20Ale%20v2%20Renewed%20-%20iOS.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 267
+  },
+  {
+    "name": "Simple AutoSmelt [Achievements]",
+    "description": "[Achievements Enabled] Smelt ores automatically the moment they drop — no more waiting, no more fuel, and no command spam",
+    "image": "https://media.forgecdn.net/attachments/1183/799/20250510_203500_0000.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/940/Simple%20AutoSmelt%20RP%20%5b1.0.6%5d.mcpack",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 268
+  },
+  {
+    "name": "Clear and Borderless Glass v5 FIXED | Multiple options | connected glass",
+    "description": "The best Clear glass texture pack .Adds multiple amazing textures for glass and glass pane. It includes clear and Borderless Glass, Clear Glass and Borderless Glass. Compatible with all other resource packs! doesn't cause any lag.",
+    "image": "https://media.forgecdn.net/attachments/965/95/clear-and-borderless-glass-thumbnail-3.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/757/Clear%20%20Borderless%20glass%20V5.3.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Texture Pack",
+    "id": 269
+  },
+  {
+    "name": "Hilux Revo, Toyota - Simple Car Series",
+    "description": "This is the Toyota Hilux Revo Addon, A rugged pickup truck that is super easy to drive",
+    "image": "https://media.forgecdn.net/attachments/1190/322/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/686/Revo.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 270
+  },
+  {
+    "name": "Squid Game: Mingle Game Recreation",
+    "description": "Play The New Squid Game Mingle Game In Minecraft!!",
+    "image": "https://media.forgecdn.net/attachments/1190/292/20250102101741_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/513/Squid%20Game%20Mingle%20Game%20Recreation%20Map%20Update.mcworld",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.81",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 271
+  },
+  {
+    "name": "Durability Viewer",
+    "description": "This add-on displays tool durability directly on the hotbar and inventory screens using only a resource pack. When paired with the behavior pack, it also displays the durability of armor and shields.",
+    "image": "https://media.forgecdn.net/attachments/1190/184/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/127/%5bV%20-%202.1%5d%20Durability%20Viewer%20-%20RP.mcpack",
+    "supportedVersions": [
+      "1.21"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 272
+  },
+  {
+    "name": "Ancient Weaponry",
+    "description": "if you're fell boring with vanilla Sword, try this addon with 45 new weapon",
+    "image": "https://media.forgecdn.net/attachments/1190/177/20250516_144449.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6535/46/Ancient%20Weaponry%201.4.mcaddon",
+    "supportedVersions": [
+      "1.21.50",
+      "1.21.81",
+      "1.21.73",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 273
+  },
+  {
+    "name": "The Hive Aspects (Texture Pack)",
+    "description": "A fresh take on the iconic Hive style! This pack enhances your Minecraft Bedrock experience with smooth animations, vibrant colors, and crisp details, all while keeping the recognizable aesthetic of The Hive.",
+    "image": "https://media.forgecdn.net/attachments/1177/484/1746355797467-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/974/TheHiveAspects2.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 274
+  },
+  {
+    "name": "Ultimate Parkour Escape Room",
+    "description": "This is an long-worked on Escape Room with 3 Different Custom Maps sorted in a Easy Stage, a Medium Stage and a Hard Stage! Good luck, have FUN!",
+    "image": "https://media.forgecdn.net/attachments/1092/640/ppmcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/782/Bridgecrafter%27s%20Ultimate%20Parkour%20Escape%20Room%20v2.7.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 275
+  },
+  {
+    "name": "The Amazing Prison Escape Room [Sector 01]",
+    "description": "This Escape Room is a revolutionary Prison Escape with elements like the Pre-Prison-Story and a Prison divided into 5 Sectors. I will update this map very often, so expect it to be finished in no time!",
+    "image": "https://media.forgecdn.net/attachments/1169/215/profile-pic-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/780/Bridgecrafter%27s%20Amazing%20Prison%20Escape%20v2.1.mcworld",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 276
+  },
+  {
+    "name": "Noiseless Glass",
+    "description": "This texture pack removes centre pixels of glass, keeps borders for clear visibility without distractions",
+    "image": "https://media.forgecdn.net/attachments/1190/75/20250516_112319-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/723/NoiselessGlass.mcpack",
+    "supportedVersions": [
+      "1.21.81",
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 277
+  },
+  {
+    "name": "Farmer's Delight Bedrock",
+    "description": "This add-on is an unofficial port of the Farmer's Delight Mod to Bedrock Edition, meticulously reproduced to match the original as closely as possible.",
+    "image": "https://media.forgecdn.net/attachments/1149/716/cr-0-40r19z6j6-ug-o4567-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/708/FarmersDelightV3.2.1-1.21.70%2b.mcaddon",
+    "supportedVersions": [
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 278
+  },
+  {
+    "name": "📜Heart Display Nametags for Players and Mobs [Addon Script]",
+    "description": "Adds real-time floating heart indicators above players and mobs to show their current health status.",
+    "image": "https://media.forgecdn.net/attachments/1177/164/ajdxe9c-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/699/HeartDisplay.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 279
+  },
+  {
+    "name": "What Am I Observing?",
+    "description": "This add-on offers the possibility to discover more features about blocks and entities, enriching your Minecraft Bedrock experience. Add essential information to your world.",
+    "image": "https://media.forgecdn.net/attachments/1186/444/diseao-sin-tatulo-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/527/Waio%20BP%20v2.02.mcpack",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 280
+  },
+  {
+    "name": "Squid Game: Craftable Games!!",
+    "description": "Play Squid Game In Survival Minecraft!!",
+    "image": "https://media.forgecdn.net/attachments/1189/931/20250209094044_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/471/Squid%20Game%20Addon%20Bug%20Fixes%20update.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 281
+  },
+  {
+    "name": "Euforia's Items",
+    "description": "Add more than 100 items!",
+    "image": "https://media.forgecdn.net/attachments/1088/875/nei_mcpedl_banner-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/466/Euforia%27s%20Items%20v1.5.1.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.3",
+    "category": "Add-on",
+    "id": 282
+  },
+  {
+    "name": "ThreeD  Player Skin",
+    "description": "Make your character come to life with the 3D Player Skin texture pack!",
+    "image": "https://media.forgecdn.net/attachments/1190/974/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/462/ThreeD_Player_Skin_v1.1.mcpack",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 283
+  },
+  {
+    "name": "BONK! (A Subsidiary of Doink)",
+    "description": "A mod which adds BONK! Atomic Apple!",
+    "image": "https://media.forgecdn.net/attachments/1189/900/1000067791-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/434/Bonk!%20(A%20Subsidiary%20of%20Doink)_1747333634177.mcaddon",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 284
+  },
+  {
+    "name": "Anime Waifus",
+    "description": "What would happen if Minecraft stopped being a game of blocks and adventures...  …and it became a place full of your most beloved characters?",
+    "image": "https://media.forgecdn.net/attachments/1189/890/mcpedl-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/347/Anime_Waifus_v10.1_Beh.mcpack",
+    "supportedVersions": [
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 285
+  },
+  {
+    "name": "Block Duplicator",
+    "description": "Duplicate Blocks And Items In Minecraft!",
+    "image": "https://media.forgecdn.net/attachments/1129/433/images-2025-03-17t190224-547-jpeg.jpeg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/305/Block%20Duplicator%20Fence%20And%20Fixes%20Update.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 286
+  },
+  {
+    "name": "Monster School Map",
+    "description": "A Map Where You Can Meet The Monster School",
+    "image": "https://media.forgecdn.net/attachments/1129/470/e90b0db29a_monster-school-map-cover-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/300/Monster%20School%20Update.mcworld",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 287
+  },
+  {
+    "name": "Just One - Minecraft But All Blocks And Items Have The Same Texture",
+    "description": "Do you want some more challenge? Well, this Texture Pack is for you!! It's because this Texture Pack made all blocks and items have the same texture.",
+    "image": "https://media.forgecdn.net/attachments/1187/924/20250421_110504-jpg.jpg",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/164/Just%20One%20v1.2%20Update.mcpack",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Texture Pack",
+    "id": 288
+  },
+  {
+    "name": "Talking Ben",
+    "description": "Do you want to play Talking Ben but in Minecraft?  Well, this Addon is for you!  It is because this Addon Added Talking Ben in Minecraft.  This Addon Added Talking Ben, Talking Ben Armor and Foods, and so much more!!!",
+    "image": "https://media.forgecdn.net/attachments/1188/964/20220329072305_1-520x245-png.png",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/152/Talking%20Ben%20Addon%20Update.mcaddon",
+    "supportedVersions": [
+      "1.21.30",
+      "1.21.50",
+      "1.21.20",
+      "1.21.73",
+      "1.21",
+      "1.21.41",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.0",
+    "category": "Add-on",
+    "id": 289
+  },
+  {
+    "name": "Abandoned & Ruin Structures",
+    "description": "This add-on generates a variety of unique structures that naturally appear in your Minecraft world, including abandoned dungeons, ruined houses, pillager towers, and many more waiting to be discovered.",
+    "image": "https://media.forgecdn.net/attachments/1137/110/20250325_160149_0001-ezgif-com-optimize-gif.gif",
+    "downloadUrl": "https://edge.forgecdn.net/files/6534/148/Abandoned%20Ruin%20Structures%20(v1.10.60).mcaddon",
+    "supportedVersions": [
+      "1.21.73",
+      "1.21.70",
+      "1.21.80"
+    ],
+    "version": "1.0.1",
+    "category": "Add-on",
+    "id": 290
   }
 ]
