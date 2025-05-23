@@ -74,16 +74,6 @@
   },
   {
     "id": 8,
-    "name": "True Survival - Zombie Apocalypse",
-    "description": "Survive the zombie apocalypse!",
-    "image": "https://media.forgecdn.net/attachments/1190/65/full-gif.gif",
-    "downloadUrl": "https://edge.forgecdn.net/files/6550/330/TSZA%20V1%20(THE%20ZOMBIES)%20%5bBP%5d.mcaddon",
-    "supportedVersions": ["1.21.81", "1.21.80"],
-    "version": "1.0",
-    "category": "Add-on"
-  },
-  {
-    "id": 9,
     "name": "Dew Ore Vein Miner",
     "description": "Vein mine ores with compatibility for Fortune and Unbreaking.",
     "image": "https://media.forgecdn.net/attachments/888/803/ore-vein-miner.png",
