@@ -701,272 +701,375 @@
     </div>
 
     <script>
-        let modsData = [];
-        let filteredMods = [];
-        
-        const modIcons = {
-            'Lucky Block': 'fas fa-dice',
-            'Furniture': 'fas fa-chair',
-            'Cars': 'fas fa-car',
-            'Weapons': 'fas fa-sword',
-            'Animals': 'fas fa-paw',
-            'Magic': 'fas fa-magic',
-            'Tools': 'fas fa-tools',
-            'Food': 'fas fa-apple-alt',
-            'Building': 'fas fa-cubes',
-            'Adventure': 'fas fa-compass'
-        };
-        
-        
-        
-        async function loadMods() {
-            try {
-                const response = await fetch('data.json');
-                modsData = await response.json();
-            } catch (error) {
-                console.log('Using sample data');
-                modsData = modsData;
+    let modsData = [];
+    let filteredMods = [];
+    let currentModId = null;
+    
+    const modIcons = {
+        'Lucky Block': 'fas fa-dice',
+        'Furniture': 'fas fa-chair',
+        'Cars': 'fas fa-car',
+        'Weapons': 'fas fa-sword',
+        'Animals': 'fas fa-paw',
+        'Magic': 'fas fa-magic',
+        'Tools': 'fas fa-tools',
+        'Food': 'fas fa-apple-alt',
+        'Building': 'fas fa-cubes',
+        'Adventure': 'fas fa-compass'
+    };
+
+    // Cache system
+    const modsCache = {
+        data: null,
+        timestamp: null,
+        get: function() {
+            if (this.data && this.timestamp && (Date.now() - this.timestamp) < 300000) {
+                return Promise.resolve(this.data);
             }
+            return null;
+        },
+        set: function(data) {
+            this.data = data;
+            this.timestamp = Date.now();
+        }
+    };
+
+    async function loadMods() {
+        const cachedData = modsCache.get();
+        if (cachedData) {
+            modsData = cachedData;
+            filteredMods = modsData;
+            displayMods();
+            return;
+        }
+
+        try {
+            const response = await fetch('data.json', {
+                cache: 'force-cache'
+            });
+            modsData = await response.json();
+            modsCache.set(modsData);
+            filteredMods = modsData;
+            displayMods();
+        } catch (error) {
+            console.log('Using sample data');
+            modsData = modsData;
             filteredMods = modsData;
             displayMods();
         }
-        
-        function getModIcon(modName, category) {
-            for (let key in modIcons) {
-                if (modName.toLowerCase().includes(key.toLowerCase())) {
-                    return modIcons[key];
-                }
+    }
+    
+    function getModIcon(modName, category) {
+        for (let key in modIcons) {
+            if (modName.toLowerCase().includes(key.toLowerCase())) {
+                return modIcons[key];
             }
-            return modIcons[category] || 'fas fa-cube';
+        }
+        return modIcons[category] || 'fas fa-cube';
+    }
+    
+    function displayMods() {
+        const modsGrid = document.getElementById('modsGrid');
+        const noResults = document.getElementById('noResults');
+        
+        if (filteredMods.length === 0) {
+            modsGrid.style.display = 'none';
+            noResults.style.display = 'block';
+            return;
         }
         
-        function displayMods() {
-            const modsGrid = document.getElementById('modsGrid');
-            const noResults = document.getElementById('noResults');
-            
-            if (filteredMods.length === 0) {
-                modsGrid.style.display = 'none';
-                noResults.style.display = 'block';
-                return;
-            }
-            
-            modsGrid.style.display = 'grid';
-            noResults.style.display = 'none';
-            
-            modsGrid.innerHTML = filteredMods.map(mod => `
-                <div class="mod-card">
-                    <div class="mod-image-container">
-                        <img src="${mod.image}" alt="${mod.name}" class="mod-image">
-                        <div class="mod-icon">
-                            <i class="${getModIcon(mod.name, mod.category)}"></i>
-                        </div>
-                    </div>
-                    <div class="mod-content">
-                        <h3 class="mod-title">
-                            <i class="${getModIcon(mod.name, mod.category)}"></i>
-                            ${mod.name}
-                        </h3>
-                        <p class="mod-description">${mod.description}</p>
-                        <div class="mod-meta">
-                            <div class="mod-version">
-                                <i class="fas fa-code-branch"></i>
-                                ${mod.version}
-                            </div>
-                            <div class="mod-category">
-                                <i class="fas fa-tag"></i>
-                                ${mod.category}
-                            </div>
-                        </div>
-                        <div class="mod-actions">
-                            <button class="show-btn" onclick="showMod(${mod.id})">
-                                <i class="fas fa-eye"></i>
-                                Show Page
-                            </button>
-                            <button class="download-btn" onclick="downloadMod('${mod.downloadUrl}', '${mod.name}')">
-                                <i class="fas fa-download"></i>
-                                Download
-                            </button>
-                        </div>
+        modsGrid.style.display = 'grid';
+        noResults.style.display = 'none';
+        
+        modsGrid.innerHTML = filteredMods.map(mod => `
+            <div class="mod-card" data-id="${mod.id}">
+                <div class="mod-image-container">
+                    <img src="${mod.image}" alt="${mod.name}" class="mod-image" loading="lazy">
+                    <div class="mod-icon">
+                        <i class="${getModIcon(mod.name, mod.category)}"></i>
                     </div>
                 </div>
-            `).join('');
+                <div class="mod-content">
+                    <h3 class="mod-title">
+                        <i class="${getModIcon(mod.name, mod.category)}"></i>
+                        ${mod.name}
+                    </h3>
+                    <p class="mod-description">${mod.description}</p>
+                    <div class="mod-meta">
+                        <div class="mod-version">
+                            <i class="fas fa-code-branch"></i>
+                            ${mod.version}
+                        </div>
+                        <div class="mod-category">
+                            <i class="fas fa-tag"></i>
+                            ${mod.category}
+                        </div>
+                    </div>
+                    <div class="mod-actions">
+                        <button class="show-btn" onclick="showMod(${mod.id})">
+                            <i class="fas fa-eye"></i>
+                            Show Page
+                        </button>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+    }
+    
+    function searchMods() {
+        const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+        
+        if (searchTerm === '') {
+            filteredMods = modsData;
+        } else {
+            filteredMods = modsData.filter(mod => 
+                mod.name.toLowerCase().includes(searchTerm) ||
+                mod.description.toLowerCase().includes(searchTerm) ||
+                mod.category.toLowerCase().includes(searchTerm)
+            );
         }
         
-        function searchMods() {
-            const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
-            
-            if (searchTerm === '') {
-                filteredMods = modsData;
-            } else {
-                filteredMods = modsData.filter(mod => 
-                    mod.name.toLowerCase().includes(searchTerm) ||
-                    mod.description.toLowerCase().includes(searchTerm) ||
-                    mod.category.toLowerCase().includes(searchTerm)
-                );
-            }
-            
-            displayMods();
-        }
+        displayMods();
+    }
+    
+    function showModTransition(callback) {
+        const transition = document.querySelector('.page-transition');
+        transition.classList.add('active');
         
-        function showModTransition(callback) {
-            const transition = document.querySelector('.page-transition');
-            transition.classList.add('active');
-            
+        setTimeout(() => {
+            callback();
             setTimeout(() => {
-                callback();
-                setTimeout(() => {
-                    transition.classList.remove('active');
-                }, 300);
-            }, 250);
-        }
+                transition.classList.remove('active');
+            }, 300);
+        }, 250);
+    }
+    
+    function showMod(modId) {
+        currentModId = modId;
+        showModTransition(() => {
+            const mod = modsData.find(m => m.id === modId);
+            if (!mod) return;
+            
+            const modUrl = `SOON`;
+            
+            document.getElementById('modalTitle').innerHTML = `
+                <i class="${getModIcon(mod.name, mod.category)}"></i>
+                ${mod.name}
+            `;
+            document.getElementById('modalImage').src = mod.image;
+            document.getElementById('modalDescription').textContent = mod.description;
+            
+            const modalMeta = document.getElementById('modalMeta');
+            modalMeta.innerHTML = `
+                <div class="meta-item">
+                    <i class="fas fa-code-branch"></i>
+                    <div>
+                        <div class="meta-label">Version</div>
+                        <div class="meta-value">${mod.version}</div>
+                    </div>
+                </div>
+                <div class="meta-item">
+                    <i class="fas fa-tag"></i>
+                    <div>
+                        <div class="meta-label">Category</div>
+                        <div class="meta-value">${mod.category}</div>
+                    </div>
+                </div>
+                <div class="meta-item">
+                    <i class="fas fa-user"></i>
+                    <div>
+                        <div class="meta-label">Author</div>
+                        <div class="meta-value">${mod.author}</div>
+                    </div>
+                </div>
+                <div class="meta-item">
+                    <i class="fas fa-database"></i>
+                    <div>
+                        <div class="meta-label">File Size</div>
+                        <div class="meta-value">${mod.fileSize}</div>
+                    </div>
+                </div>
+            `;
+            
+            const versionsList = mod.supportedVersions.map(v => `v${v}`).join(', ');
+            modalMeta.innerHTML += `
+                <div class="meta-item">
+                    <i class="fas fa-check-circle"></i>
+                    <div>
+                        <div class="meta-label">Supported Versions</div>
+                        <div class="meta-value">${versionsList}</div>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('modalUrl').innerHTML = `
+                <i class="fas fa-link"></i>
+                ${modUrl}
+            `;
+            
+            const downloadContainer = document.getElementById('modalDownload');
+            downloadContainer.innerHTML = '';
+            
+            const downloadBtn = document.createElement('button');
+            downloadBtn.className = 'modal-download';
+            downloadBtn.style.width = '100%';
+            downloadBtn.innerHTML = `
+                <i class="fas fa-download"></i>
+                Download File
+            `;
+            downloadBtn.onclick = () => showDownloadPage(mod);
+            downloadContainer.appendChild(downloadBtn);
+            
+            document.getElementById('modModal').classList.add('active');
+        });
+    }
+    
+    function showDownloadPage(mod) {
+        const mainModal = document.getElementById('modModal');
+        mainModal.classList.remove('active');
         
-        function showMod(modId) {
-            showModTransition(() => {
-                const mod = modsData.find(m => m.id === modId);
-                if (!mod) return;
-                
-                                const modUrl = `SOON`;
-                
-                document.getElementById('modalTitle').innerHTML = `
-                    <i class="${getModIcon(mod.name, mod.category)}"></i>
-                    ${mod.name}
+        const downloadModal = document.createElement('div');
+        downloadModal.className = 'mod-modal active';
+        downloadModal.innerHTML = `
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title">
+                        <i class="${getModIcon(mod.name, mod.category)}"></i>
+                        Download ${mod.name}
+                    </h2>
+                    <button class="close-btn" onclick="backToModPage()">
+                        <i class="fas fa-arrow-left"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="download-buttons-container" id="downloadButtons"></div>
+                </div>
+            </div>
+        `;
+        
+        document.body.appendChild(downloadModal);
+        
+        const downloadButtons = downloadModal.querySelector('#downloadButtons');
+        
+        if (Array.isArray(mod.downloadUrl)) {
+            mod.downloadUrl.forEach((url, index) => {
+                const fileName = decodeURIComponent(url.split('/').pop() || `mod-part-${index+1}.mcpack`);
+                const downloadBtn = document.createElement('button');
+                downloadBtn.className = 'modal-download';
+                downloadBtn.innerHTML = `
+                    <i class="fas fa-download"></i>
+                    ${fileName}
                 `;
-                document.getElementById('modalImage').src = mod.image;
-                document.getElementById('modalDescription').textContent = mod.description;
-                document.getElementById('modalDownload').onclick = () => downloadMod(mod.downloadUrl, mod.name);
-                
-                const modalMeta = document.getElementById('modalMeta');
-                modalMeta.innerHTML = `
-                    <div class="meta-item">
-                        <i class="fas fa-code-branch"></i>
-                        <div>
-                            <div class="meta-label">Version</div>
-                            <div class="meta-value">${mod.version}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-tag"></i>
-                        <div>
-                            <div class="meta-label">Category</div>
-                            <div class="meta-value">${mod.category}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-user"></i>
-                        <div>
-                            <div class="meta-label">Author</div>
-                            <div class="meta-value">${mod.author}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-database"></i>
-                        <div>
-                            <div class="meta-label">File Size</div>
-                            <div class="meta-value">${mod.fileSize}</div>
-                        </div>
-                    </div>
-                `;
-                
-                const versionsList = mod.supportedVersions.map(v => `v${v}`).join(', ');
-                modalMeta.innerHTML += `
-                    <div class="meta-item">
-                        <i class="fas fa-check-circle"></i>
-                        <div>
-                            <div class="meta-label">Supported Versions</div>
-                            <div class="meta-value">${versionsList}</div>
-                        </div>
-                    </div>
-                `;
-                
-                document.getElementById('modalUrl').innerHTML = `
-                    <i class="fas fa-link"></i>
-                    ${modUrl}
-                `;
-                
-                document.getElementById('modModal').classList.add('active');
+                downloadBtn.onclick = () => downloadMod(url, fileName);
+                downloadButtons.appendChild(downloadBtn);
             });
+        } else {
+            const fileName = decodeURIComponent(mod.downloadUrl.split('/').pop() || `${mod.name.toLowerCase().replace(/ /g, '-')}.mcpack`);
+            const downloadBtn = document.createElement('button');
+            downloadBtn.className = 'modal-download';
+            downloadBtn.innerHTML = `
+                <i class="fas fa-download"></i>
+                ${fileName}
+            `;
+            downloadBtn.onclick = () => downloadMod(mod.downloadUrl, fileName);
+            downloadButtons.appendChild(downloadBtn);
         }
-        
-        function closeModal() {
-            document.getElementById('modModal').classList.remove('active');
+    }
+    
+    function backToModPage() {
+        const downloadModal = document.querySelector('.mod-modal.active');
+        if (downloadModal) {
+            downloadModal.remove();
         }
-        
-        function downloadMod(url, name) {
-            const link = document.createElement('a');
-            link.href = url;
-            link.download = name;
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
+        document.getElementById('modModal').classList.add('active');
+    }
+    
+    function closeModal() {
+        document.getElementById('modModal').classList.remove('active');
+        const downloadModal = document.querySelector('.mod-modal.active');
+        if (downloadModal) {
+            downloadModal.remove();
         }
+    }
+    
+    function downloadMod(url, name) {
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = name;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+    
+    function createParticles() {
+        const particlesContainer = document.getElementById('particles-js');
+        const particleCount = Math.floor(window.innerWidth / 10);
         
-        function createParticles() {
-            const particlesContainer = document.getElementById('particles-js');
-            const particleCount = Math.floor(window.innerWidth / 10);
+        for (let i = 0; i < particleCount; i++) {
+            const particle = document.createElement('div');
+            particle.classList.add('pixel-particle');
             
-            for (let i = 0; i < particleCount; i++) {
-                const particle = document.createElement('div');
-                particle.classList.add('pixel-particle');
-                
-                particle.style.left = Math.random() * window.innerWidth + 'px';
-                particle.style.top = Math.random() * window.innerHeight + 'px';
-                particle.style.animationDelay = Math.random() * 8 + 's';
-                particle.style.animationDuration = (Math.random() * 5 + 5) + 's';
-                
-                particlesContainer.appendChild(particle);
+            particle.style.left = Math.random() * window.innerWidth + 'px';
+            particle.style.top = Math.random() * window.innerHeight + 'px';
+            particle.style.animationDelay = Math.random() * 8 + 's';
+            particle.style.animationDuration = (Math.random() * 5 + 5) + 's';
+            
+            particlesContainer.appendChild(particle);
+        }
+    }
+    
+    // Event delegation for mod cards
+    document.addEventListener('click', function(e) {
+        if (e.target.closest('.mod-card')) {
+            const modId = parseInt(e.target.closest('.mod-card').dataset.id);
+            if (modId) {
+                showMod(modId);
             }
         }
-        
-        document.getElementById('searchInput').addEventListener('keyup', function(event) {
-            if (event.key === 'Enter') {
-                searchMods();
-            } else {
-                setTimeout(searchMods, 300);
-            }
-        });
-        
-        document.addEventListener('keydown', function(event) {
-            if (event.key === 'Escape') {
-                closeModal();
-            }
-        });
-        
-        document.getElementById('modModal').addEventListener('click', function(event) {
-            if (event.target === this) {
-                closeModal();
-            }
-        });
-        
-        window.addEventListener('load', function() {
-            loadMods();
-            createParticles();
+    });
+    
+    document.getElementById('searchInput').addEventListener('input', debounce(searchMods, 300));
+    
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape') {
+            closeModal();
+        }
+    });
+    
+    // Debounce function for better performance
+    function debounce(func, delay) {
+        let timeout;
+        return function() {
+            const context = this;
+            const args = arguments;
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(context, args), delay);
+        };
+    }
+    
+    // Lazy load images
+    document.addEventListener('DOMContentLoaded', function() {
+        if ('IntersectionObserver' in window) {
+            const lazyImages = document.querySelectorAll('.mod-image[loading="lazy"]');
             
-            fetch('https://flaxon-studio.mcpe.site/api/all')
-                .then(response => response.json())
-                .then(data => {
-                    if (data && data.length > 0) {
-                        modsData = data.map((mod, index) => ({
-                            id: index + 1,
-                            name: mod.name,
-                            description: mod.description,
-                            image: mod.image,
-                            downloadUrl: `mods/${mod.name.toLowerCase().replace(/ /g, '-')}.mcpack`,
-                            category: mod.category,
-                            version: mod.version,
-                            supportedVersions: mod.supportedVersions,
-                            pageUrl: mod.page_url || `https://flaxon-studio.mcpe.site/mods/${mod.name.toLowerCase().replace(/ /g, '-')}`
-                        }));
-                        filteredMods = modsData;
-                        displayMods();
+            const imageObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src || img.src;
+                        imageObserver.unobserve(img);
                     }
-                })
-                .catch(error => {
-                    console.log('Using local data');
-                    modsData = sampleData;
-                    filteredMods = modsData;
-                    displayMods();
                 });
-        });
-    </script>
+            });
+            
+            lazyImages.forEach(img => imageObserver.observe(img));
+        }
+    });
+    
+    window.addEventListener('load', function() {
+        loadMods();
+        createParticles();
+    });
+</script>
 </body>
 </html>
